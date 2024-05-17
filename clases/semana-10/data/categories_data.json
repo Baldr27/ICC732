@@ -1,0 +1,153 @@
+{
+    "data": [
+        {
+            "id": "programming",
+            "type": "category",
+            "attributes": {
+                "name": "Programming",
+                "dimension": "programming"
+            }
+        },
+        {
+            "id": "data-science-analytics",
+            "type": "category",
+            "attributes": {
+                "name": "Data Science / Analytics",
+                "dimension": "data_analytics"
+            }
+        },
+        {
+            "id": "sysadmin-devops-qa",
+            "type": "category",
+            "attributes": {
+                "name": "SysAdmin / DevOps / QA",
+                "dimension": "sysadmin"
+            }
+        },
+        {
+            "id": "digital-marketing",
+            "type": "category",
+            "attributes": {
+                "name": "Digital Marketing",
+                "dimension": "digital_marketing"
+            }
+        },
+        {
+            "id": "customer-support",
+            "type": "category",
+            "attributes": {
+                "name": "Customer Support",
+                "dimension": "customer_support"
+            }
+        },
+        {
+            "id": "design-ux",
+            "type": "category",
+            "attributes": {
+                "name": "Design / UX",
+                "dimension": "design"
+            }
+        },
+        {
+            "id": "operations-management",
+            "type": "category",
+            "attributes": {
+                "name": "Operations / Management",
+                "dimension": "operations"
+            }
+        },
+        {
+            "id": "sales",
+            "type": "category",
+            "attributes": {
+                "name": "Sales",
+                "dimension": "sales"
+            }
+        },
+        {
+            "id": "mobile-developer",
+            "type": "category",
+            "attributes": {
+                "name": "Mobile Developer",
+                "dimension": "mobile"
+            }
+        },
+        {
+            "id": "innovation-agile",
+            "type": "category",
+            "attributes": {
+                "name": "Innovation & Agile",
+                "dimension": "innovation_agile"
+            }
+        },
+        {
+            "id": "education-coaching",
+            "type": "category",
+            "attributes": {
+                "name": "Education & Coaching",
+                "dimension": "education_coaching"
+            }
+        },
+        {
+            "id": "other",
+            "type": "category",
+            "attributes": {
+                "name": "Other",
+                "dimension": "other"
+            }
+        },
+        {
+            "id": "hr",
+            "type": "category",
+            "attributes": {
+                "name": "People & HR",
+                "dimension": "hr"
+            }
+        },
+        {
+            "id": "technical-support",
+            "type": "category",
+            "attributes": {
+                "name": "Technical Support",
+                "dimension": "technical_support"
+            }
+        },
+        {
+            "id": "cybersecurity",
+            "type": "category",
+            "attributes": {
+                "name": "Cybersecurity",
+                "dimension": "cybersecurity"
+            }
+        },
+        {
+            "id": "machine-learning-ai",
+            "type": "category",
+            "attributes": {
+                "name": "Machine Learning & AI",
+                "dimension": "machine_learning"
+            }
+        },
+        {
+            "id": "advertising-media",
+            "type": "category",
+            "attributes": {
+                "name": "Advertising & Media",
+                "dimension": "advertising_media"
+            }
+        },
+        {
+            "id": "hardware-electronics",
+            "type": "category",
+            "attributes": {
+                "name": "Hardware / Electronics",
+                "dimension": "hardware"
+            }
+        }
+    ],
+    "meta": {
+        "page": 1,
+        "per_page": 100,
+        "total_pages": 1
+    }
+}

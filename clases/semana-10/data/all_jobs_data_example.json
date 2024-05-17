@@ -1,0 +1,2065 @@
+[
+    {
+        "category_name": "Programming",
+        "jobs": {
+            "data": [
+                {
+                    "id": "solutions-engineer-openloop-remote",
+                    "type": "job",
+                    "attributes": {
+                        "title": "Solutions Engineer",
+                        "description_headline": "Qualifications and requirements",
+                        "description": "<ul><li>3+ years experience building production-ready Fullstack applications.</li><li>3+ years experience with Node.js and React.</li><li>2+ years experience with AWS serverless technologies (Lambda, DynamoDB, SQS, S3).</li><li>2+ years experience with TypeScript.</li><li>3+ years experience using git for source control.</li><li>3+ years experience working in an Agile environment.</li><li>Strong problem-solving skills and the ability to diagnose and resolve complex technical issues.</li><li>Excellent communication skills, both technical and non-technical, for effective interaction with healthcare professionals and internal teams.</li><li>Ability to create big-picture software solutions.</li><li>Ability to present ideas in a clean, user-friendly way.</li><li><strong>Fluency in English (C1) and excellent written and verbal communication skills.</strong></li></ul>",
+                        "projects": "<div>OpenLoop is looking for a <strong><em>Solutions Engineer</em></strong> to join our team in Lima, Peru. This role will be a member of the <strong>Solutions</strong> Team.</div><div><strong>About OpenLoop</strong></div><div>OpenLoop was co-founded by CEO, Dr. Jon Lensing, and COO, Christian Williams, with the vision to bring healing anywhere. Our telehealth support solutions are thoughtfully designed to streamline and simplify go-to-market care delivery for companies offering meaningful virtual support to patients across an expansive array of specialties, in all 50 states.</div><div><strong>Our Company Culture</strong></div><div>We have a relatively flat organizational structure here at OpenLoop. Everyone is encouraged to bring ideas to the table and make things happen. This fits in well with our core values of Autonomy, Competence and Belonging, as we want everyone to feel empowered and supported to do their best work.</div>",
+                        "functions_headline": "Job functions",
+                        "functions": "<ul><li>Take complex screen designs and quickly render them into clean and well-organized code.</li><li>Create internal tools that enable our asynchronous team of engineers to work as efficiently and frictionlessly as possible.</li><li>Design and implement APIs that are consumed by our applications and our clients.</li><li>Contribute to an event-driven architecture that will power the future of our product line and service offering.</li><li>Play a key role in the development of Openloop integrations with third-party data platforms, CDPs, activation platforms, data warehouses, and other softwares our customers may need.</li><li>Work closely with external clients and internal business users to understand, translate and generalize their particular requirements and use cases in order to build applications.</li></ul>",
+                        "benefits_headline": "Our Benefits",
+                        "benefits": "<div>In addition to competitive salaries, this role includes:</div><ul><li>Contract under a Peruvian company ID (\"Planilla\"). You will receive all the legal benefits in Peruvian soles (CTS, \"Gratificaciones\", etc).</li><li>Monday - Friday workdays, full time (9 am - 6 pm).</li><li>Unlimited vacation days.</li><li>EPS healthcare covered 100% with RIMAC —Because you, too, deserve access to great healthcare.</li><li>AFP retirement plan —to help you save for the future.</li><li>We will assign you a computer and other accessories so you can have the best tools to do your job.</li><li>You will have all the benefits of the Coworking space located in Lima - Miraflores (Free beverage, internal talks, bicycle parking, best view of the city).</li></ul>",
+                        "desirable_headline": "Desirable skills",
+                        "desirable": "<ul><li>Experience working with Zoho and Healthie is considered a plus (desired).</li></ul>",
+                        "remote": false,
+                        "remote_modality": "hybrid",
+                        "remote_zone": null,
+                        "countries": [
+                            "Peru"
+                        ],
+                        "lang": "en",
+                        "category_name": "Programming",
+                        "perks": [
+                            "life_insurance",
+                            "paid_sick_days",
+                            "bicycle_parking",
+                            "health_coverage",
+                            "dental_insurance",
+                            "free_car_parking",
+                            "computer_provided",
+                            "informal_dresscode",
+                            "recreational_areas",
+                            "vacation_over_legal",
+                            "beverages_and_snacks"
+                        ],
+                        "min_salary": null,
+                        "max_salary": null,
+                        "published_at": 1715884417,
+                        "response_time_in_days": {
+                            "min": 11,
+                            "max": 21
+                        },
+                        "applications_count": 53,
+                        "location_regions": {
+                            "data": []
+                        },
+                        "location_tenants": {
+                            "data": []
+                        },
+                        "location_cities": {
+                            "data": [
+                                {
+                                    "id": 130,
+                                    "type": "location_city"
+                                }
+                            ]
+                        },
+                        "modality": {
+                            "data": {
+                                "id": 1,
+                                "type": "modality"
+                            }
+                        },
+                        "seniority": {
+                            "data": {
+                                "id": 4,
+                                "type": "seniority"
+                            }
+                        },
+                        "tags": {
+                            "data": [
+                                {
+                                    "id": 1,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 34,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 53,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 58,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 119,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 123,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 131,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 225,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 235,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 259,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 267,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 299,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 310,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 583,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 746,
+                                    "type": "tag"
+                                }
+                            ]
+                        },
+                        "company": {
+                            "data": {
+                                "id": 11925,
+                                "type": "company"
+                            }
+                        }
+                    },
+                    "links": {
+                        "public_url": "https://www.getonbrd.com/jobs/solutions-engineer-openloop-remote"
+                    }
+                }
+            ],
+            "meta": {
+                "page": 1,
+                "per_page": 1,
+                "total_pages": 346
+            }
+        }
+    },
+    {
+        "category_name": "Data Science / Analytics",
+        "jobs": {
+            "data": [
+                {
+                    "id": "desarrollador-power-bi-data-lake-y-bd-lisit-santiago",
+                    "type": "job",
+                    "attributes": {
+                        "title": "Desarrollador Power BI",
+                        "description_headline": "Requerimientos del cargo",
+                        "description": "<div>Para el cargo a postular contamos con los siguientes requerimientos de carácter excluyente en:<br>Conocimientos excluyentes:</div><ul><li>Certificación de PL-300 (EXCLUYENTE)</li><li>Conocimiento sólido de bases de datos relacionales y no relacionales (SQL, MongoDB, etc.).</li><li>Experiencia práctica en el desarrollo de informes y paneles con Power BI.</li><li>Experiencia con la arquitectura y la implementación de soluciones de Data Lake.</li></ul>",
+                        "projects": "<div> En Lisit en el area de DIGITAL promovemos la eficacia en la operatividad de nuestros clientes por medio de un acompañamiento consultivos que incorpora diferentes herramientas y prácticas, posibilitando el logro exitoso de sus objetivos de transformación a partir de una estrategia integral de acompañamiento e implementación.</div><div>Creamos, desarrollamos e implementamos servicios de software capaces de proporcionar herramientas de automatización y optimización requeridos por empresas, manteniendo constante el foco de innovación y pasión por los desafíos. </div>",
+                        "functions_headline": "Funciones del cargo",
+                        "functions": "<div>El área a pertenecer dentro de Lisit es DIGITAL la cual tiene de objetivo entregar servicios integrales con equipos de gran experiencia en el desarrollo de apps y todo tipo de desarrollo desoftware, Desarrollo de Softwares y estimación de requerimientos. Específicamente, estaría involucrándose en un proyecto para uno de nuestros clientes más importantes.</div><div>Responsabilidades: </div><ul><li>Diseñar, desarrollar e implementar bases de datos eficientes y seguras.</li><li>Integrar diferentes sistemas y fuentes de datos para crear soluciones de BI (Business Intelligence) efectivas.</li><li>Diseñar y desarrollar informes y paneles interactivos utilizando Power BI.</li><li>Trabajar con Data Lake para el almacenamiento y procesamiento de grandes volúmenes de datos.</li><li>Realizar pruebas unitarias y de integración para garantizar la calidad del software.</li><li>Mantenerse actualizado con las últimas tendencias y tecnologías en desarrollo de software.</li></ul>",
+                        "benefits_headline": "Condiciones",
+                        "benefits": "<div>Para satisfacer las necesidades de nuestros clientes de manera óptima, es fundamental adoptar un enfoque de disponibilidad híbrida en la Región Metropolitana de la Ciudad de Santiago. </div>",
+                        "desirable_headline": "Opcionales",
+                        "desirable": "<div>Requisitos adicionales (deseables):</div><ul><li>Experiencia en el desarrollo de aplicaciones en la nube (AWS, Azure, Google Cloud).</li><li>Conocimientos en frameworks de desarrollo frontend como React, Angular o Vue.js.</li><li>Experiencia con metodologías ágiles de desarrollo de software (Scrum, Kanban).</li><li>Certificaciones relevantes en bases de datos, BI o desarrollo de software (deseable)</li></ul>",
+                        "remote": false,
+                        "remote_modality": "hybrid",
+                        "remote_zone": "",
+                        "countries": [
+                            "Chile"
+                        ],
+                        "lang": "lang_not_specified",
+                        "category_name": "Data Science / Analytics",
+                        "perks": [],
+                        "min_salary": 2500,
+                        "max_salary": 3500,
+                        "published_at": 1715863135,
+                        "response_time_in_days": {
+                            "min": 1,
+                            "max": 7
+                        },
+                        "applications_count": 7,
+                        "location_regions": {
+                            "data": []
+                        },
+                        "location_tenants": {
+                            "data": []
+                        },
+                        "location_cities": {
+                            "data": [
+                                {
+                                    "id": 1,
+                                    "type": "location_city"
+                                }
+                            ]
+                        },
+                        "modality": {
+                            "data": {
+                                "id": 1,
+                                "type": "modality"
+                            }
+                        },
+                        "seniority": {
+                            "data": {
+                                "id": 4,
+                                "type": "seniority"
+                            }
+                        },
+                        "tags": {
+                            "data": [
+                                {
+                                    "id": 64,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 85,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 133,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 176,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 361,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 744,
+                                    "type": "tag"
+                                }
+                            ]
+                        },
+                        "company": {
+                            "data": {
+                                "id": 8900,
+                                "type": "company"
+                            }
+                        }
+                    },
+                    "links": {
+                        "public_url": "https://www.getonbrd.com/jobs/desarrollador-power-bi-data-lake-y-bd-lisit-santiago"
+                    }
+                }
+            ],
+            "meta": {
+                "page": 1,
+                "per_page": 1,
+                "total_pages": 58
+            }
+        }
+    },
+    {
+        "category_name": "SysAdmin / DevOps / QA",
+        "jobs": {
+            "data": [
+                {
+                    "id": "senior-database-administrator-sql-azure-softserve-remote",
+                    "type": "job",
+                    "attributes": {
+                        "title": "Senior Database Administrator (Ms SQL)",
+                        "description_headline": "Requerimientos del cargo",
+                        "description": "<ul><li>Proficient in on-premises SQL Server management, with additional skills in Azure</li><li>Experienced in code tuning to optimize performance</li><li>Capable of conducting SQL code reviews and deploying changes</li><li>Skilled in managing backups and performing restores as needed</li><li>Able to provide support to developers for any database-related issues</li><li>Experienced in managing SQL server updates to ensure system stability and security</li><li>Knowledgeable in T-SQL replication for data synchronization</li><li>Possess strong troubleshooting skills to address technical issues efficiently.</li><li>Database user management and audit</li><li>B2+ English Level</li><li>Located in Chile </li></ul>",
+                        "projects": "<p><strong>WE ARE</strong></p><p>SoftServe is an IT company. We are advisors and providers who operate on the cutting edge of technology. With you, we set goals and reach them to grow better together, learning from both successes and mistakes. We are a team of thinkers and makers in more than 40 offices in 12 countries, true professionals and good people, who like what we do and do it well.</p><p>We hold top-level partnership statuses with all the major cloud providers and collaborate with many technology partners like Snowflake, Confluent, Cloudera, Starburst, Collibra, Tableau, among others.</p><p>Together with the SEI and Carnegie Mellon University, we adapted ADD and ATAM architecture design methodologies to Big Data needs and invented the Smart Decisions game to promote architecture design best practices in AI and Big Data.</p>",
+                        "functions_headline": "Funciones del cargo",
+                        "functions": "<ul><li>Master SQL Server and Azure Database Management: Bring your proficiency in on-premises SQL Server and Azure to enhance our database systems</li><li>Optimize and Review SQL Performance: Use your experience in code tuning and conducting SQL code reviews to optimize system performance</li><li>Lead Data Recovery and System Updates: Manage critical backups, restores, and SQL server updates to ensure system stability and security</li><li>Support Development Teams: Provide expert support to developers on database-related issues, helping to streamline project workflows</li><li>Troubleshoot and Audit Database Systems: Utilize your strong troubleshooting skills and oversee database user management and audits to maintain high operational standards</li></ul>",
+                        "benefits_headline": "",
+                        "benefits": "<p><strong>SoftServe es una empresa que ofrece igualdad de oportunidades. Nuestras ofertas laborales están abiertas a todos quienes, dentro del marco de la Ley de Inclusión, quieran formar parte de esta gran Empresa, aportando con sus distintas capacidades y fortalezas, tanto humanas como profesionales. Pongamos tu talento y experiencia en movimiento con SoftServe.</strong></p>",
+                        "desirable_headline": "Opcionales",
+                        "desirable": "<p><strong>TOGETHER WE WILL</strong></p><ul><li>Support your technical and personal growth–we have a dedicated career plan for all roles in our company</li><li>Investigate new technologies, build internal prototypes, and share knowledge with the SoftServe Big Data Community</li><li>Upskill with full access to Udemy learning courses</li><li>Pass professional certifications, encouraged and covered by the company</li><li>Assimilate best practices from experts while working in a team of top-notch Engineers and Architect</li><li>Collaborate with world-leading companies and attend professional events</li><li>Have a chance to address different business and technology challenges, engage in challenging projects and top-notch technologies, and drive multiple projects and initiatives as a part of the Center of Excellence</li></ul>",
+                        "remote": true,
+                        "remote_modality": "remote_local",
+                        "remote_zone": null,
+                        "countries": [
+                            "Remote"
+                        ],
+                        "lang": "en",
+                        "category_name": "SysAdmin / DevOps / QA",
+                        "perks": [
+                            "pet_friendly",
+                            "flexible_hours",
+                            "health_coverage",
+                            "computer_provided",
+                            "informal_dresscode",
+                            "vacation_over_legal",
+                            "beverages_and_snacks"
+                        ],
+                        "min_salary": 3000,
+                        "max_salary": 3800,
+                        "published_at": 1715881210,
+                        "response_time_in_days": {
+                            "min": null,
+                            "max": null
+                        },
+                        "applications_count": 18,
+                        "location_regions": {
+                            "data": []
+                        },
+                        "location_tenants": {
+                            "data": [
+                                {
+                                    "id": 1,
+                                    "type": "location_tenant"
+                                }
+                            ]
+                        },
+                        "location_cities": {
+                            "data": []
+                        },
+                        "modality": {
+                            "data": {
+                                "id": 1,
+                                "type": "modality"
+                            }
+                        },
+                        "seniority": {
+                            "data": {
+                                "id": 4,
+                                "type": "seniority"
+                            }
+                        },
+                        "tags": {
+                            "data": [
+                                {
+                                    "id": 64,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 155,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 235,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 267,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 583,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 632,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 721,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 837,
+                                    "type": "tag"
+                                }
+                            ]
+                        },
+                        "company": {
+                            "data": {
+                                "id": 12856,
+                                "type": "company"
+                            }
+                        }
+                    },
+                    "links": {
+                        "public_url": "https://www.getonbrd.com/jobs/senior-database-administrator-sql-azure-softserve-remote"
+                    }
+                }
+            ],
+            "meta": {
+                "page": 1,
+                "per_page": 1,
+                "total_pages": 143
+            }
+        }
+    },
+    {
+        "category_name": "Digital Marketing",
+        "jobs": {
+            "data": [
+                {
+                    "id": "marketing-performance-analyst-hackmetrix-bogota-medellin-ciudad-de-mexico-santiago-buenos-aires-mendoza",
+                    "type": "job",
+                    "attributes": {
+                        "title": "Marketing Performance Analyst",
+                        "description_headline": "Requerimientos del cargo",
+                        "description": "<ul><li>Experiencia: Mínimo 2 años de experiencia previa en la posición.</li><li>Dominio de Google Ads, Analytics y Tag Manager.</li><li>Capacidad demostrada para comunicar y presentar resultados.</li><li>Capacidad demostrada de análisis de datos.</li></ul>",
+                        "projects": "<p>En Hackmetrix estamos revolucionando la industria, rompiendo con viejos paradigmas de ciberseguridad y construyendo la principal solución para empresas innovadoras como MercadoLibre, Ualá o Open English.</p><p>Combinamos la magia de los hackers con el talento de nuestros ingenieros para crear las mejores soluciones de ciberseguridad.</p><p>Nuestra plataforma permite a las empresas gestionar sus programas y tareas de seguridad, obtener certificaciones y monitorear sus sistemas en búsquedas de vulnerabilidades, para así evitar brechas de seguridad.</p><p>Estamos en plena expansión y queremos sumarte a nuestro equipo como<strong> Full-stack Developer </strong>para hacer de la ciberseguridad un motivo de éxito para más de mil empresas 🔥</p>",
+                        "functions_headline": "Funciones del cargo",
+                        "functions": "<p>Como Performance Analyst en Hackmetrix, estarás a cargo de desarrollar, implementar y optimizar nuestras campañas de marketing en buscadores y redes sociales. Buscamos un profesional que pueda utilizar datos y tendencias para maximizar el ROI de las campañas de pago y contribuir a nuestros objetivos de crecimiento sostenido y expansión del mercado.</p><p><strong>Responsabilidades:</strong></p><ul><li>Estrategia y Ejecución de Campañas SEM: Planificación y ejecución de campañas. KPIs: CPC, CTR, CPA y ROAS.</li><li>Análisis y Optimización de Datos: Reportes de rendimiento y recomendaciones de ajustes. KPIs: Mejora continua en la eficiencia de las campañas basada en análisis de datos.</li><li>Investigación de Palabras Clave y Segmentación de Audiencia: Creación de listas de palabras clave y definición de audiencias. KPIs: Aumento de relevancia y precisión en la segmentación.</li><li>Colaboración con el Equipo de Marketing y Ventas: Estrategias coordinadas para campañas integradas. KPIs: Alineación de las campañas SEM con los objetivos generales de marketing y ventas.</li><li>Gestión del Presupuesto de Marketing en Buscadores: Distribución y ajuste eficiente del presupuesto. KPIs: Adherencia al presupuesto con maximización del impacto.</li><li>Innovación y Aprendizaje Continuo: Implementación de las últimas herramientas y prácticas SEM. KPIs: Implementación exitosa de nuevas tecnologías y prácticas cada trimestre.</li></ul>",
+                        "benefits_headline": "Condiciones",
+                        "benefits": "<p>Porque no todo es trabajo duro, también tenemos beneficios para que tus días sean más amigables.</p><ul><li>Trabajo híbrido, uno o dos días desde nuestra oficina en Mendoza</li><li>Horarios flexibles (100% real)</li><li>12 feriados al año</li><li>15 días hábiles de vacaciones pagadas</li><li>$1.200 USD anual para capacitaciones, certificaciones o cualquier otra actividad que te desarrolle profesionalmente</li><li>Bono anual de un mes de honorarios por cumplimiento de metas</li><li>Laptop</li><li>Oportunidad de crecimiento en el corto plazo (al ritmo de nuestra empresa)</li><li>Y lo mejor de todo, trabajar y aprender con un equipo fuera de serie.</li></ul>",
+                        "desirable_headline": "Opcionales",
+                        "desirable": "<ul><li>Esperiencia con Linkedin Ads.</li></ul>",
+                        "remote": false,
+                        "remote_modality": "hybrid",
+                        "remote_zone": null,
+                        "countries": [
+                            "Chile",
+                            "Argentina",
+                            "Colombia",
+                            "Mexico"
+                        ],
+                        "lang": "lang_not_specified",
+                        "category_name": "Digital Marketing",
+                        "perks": [
+                            "pet_friendly",
+                            "flexible_hours",
+                            "remote_partial",
+                            "computer_provided",
+                            "informal_dresscode",
+                            "beverages_and_snacks"
+                        ],
+                        "min_salary": 1000,
+                        "max_salary": 1500,
+                        "published_at": 1715289757,
+                        "response_time_in_days": {
+                            "min": null,
+                            "max": null
+                        },
+                        "applications_count": 56,
+                        "location_regions": {
+                            "data": []
+                        },
+                        "location_tenants": {
+                            "data": []
+                        },
+                        "location_cities": {
+                            "data": [
+                                {
+                                    "id": 183,
+                                    "type": "location_city"
+                                },
+                                {
+                                    "id": 184,
+                                    "type": "location_city"
+                                },
+                                {
+                                    "id": 200,
+                                    "type": "location_city"
+                                },
+                                {
+                                    "id": 1,
+                                    "type": "location_city"
+                                },
+                                {
+                                    "id": 69,
+                                    "type": "location_city"
+                                },
+                                {
+                                    "id": 73,
+                                    "type": "location_city"
+                                }
+                            ]
+                        },
+                        "modality": {
+                            "data": {
+                                "id": 1,
+                                "type": "modality"
+                            }
+                        },
+                        "seniority": {
+                            "data": {
+                                "id": 3,
+                                "type": "seniority"
+                            }
+                        },
+                        "tags": {
+                            "data": [
+                                {
+                                    "id": 29,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 56,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 60,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 732,
+                                    "type": "tag"
+                                }
+                            ]
+                        },
+                        "company": {
+                            "data": {
+                                "id": 6374,
+                                "type": "company"
+                            }
+                        }
+                    },
+                    "links": {
+                        "public_url": "https://www.getonbrd.com/jobs/marketing-performance-analyst-hackmetrix-bogota-medellin-ciudad-de-mexico-santiago-buenos-aires-mendoza"
+                    }
+                }
+            ],
+            "meta": {
+                "page": 1,
+                "per_page": 1,
+                "total_pages": 34
+            }
+        }
+    },
+    {
+        "category_name": "Customer Support",
+        "jobs": {
+            "data": [
+                {
+                    "id": "customer-success-executive-bnamericas-santiago-3ccb",
+                    "type": "job",
+                    "attributes": {
+                        "title": "Customer Success Executive",
+                        "description_headline": "Requerimientos del cargo",
+                        "description": "<p>We are looking for an individual with high communication skills, goal-oriented, process-oriented, analytical, and thrives in a fast paced and demanding environment.Someone open to a culture of innovation and collaboration in an international team environment and is highly adaptable and quick to learn new information and implement new strategies. The ideal candidate is driven, self-motivated and enthusiastic with a “can-do” attitude and with the ability to work from home or in the office.To be successful in this position, you must be a team player, highly organized, and a problem-solver with the ability to educate/train users on new products or features with attention to detail.</p><p><strong>What are we looking for?</strong></p><ul><li>University Degree.</li><li>Relevant customer success, customer service, or account management experience</li><li>Communications abilities in English+Spanish.</li><li>Technical aptitude and ability to learn software programs.</li><li>Proven track record of working in a customer-facing role.</li><li>Proficient in Microsoft Office Suite, (Outlook, Excel, PowerPoint and other)</li></ul>",
+                        "projects": "<p>We are a business intelligence platform, with 28 years of experience in the LATAM market, providing our clients with valuable and updated information on projects, news and data related to the areas of Electric Power, Infrastructure, Mining and Metals, Oil and Gas, ICT, among others, so that they can use this information to make strategic decisions for their business. <br>At BNamericas, our mission is to facilitate regional development and investment in Latin America by generating valuable business intelligence for companies, governments, and other market players worldwide while continually developing its people's expertise. You can find out more about us at www.bnamericas.com <br>We are ambitious, entrepreneurial, and innovators! Our team is expanding as our solutions gain market adoption. </p><p><strong>*Hybrid work mode. <br>*This job has a salary + monthly commissions. <br>*This vacancy welcomes inclusive applications.</strong></p>",
+                        "functions_headline": "Funciones del cargo",
+                        "functions": "<p>As a <strong>Customer Success Executive</strong>, you will work closely with C-Level Executives, Directors, and Regional Managers from diverse industries like Infrastructure, Mining, Electric Power, Oil &amp; Gas, ICT, and Financial Services. Your objective is to drive usage up in every stage of the customer journey and ensure your assigned clients reach their goals.</p><ul><li>Develop customer relationships that promote retention and loyalty, ultimately improving customer lifetime value and reducing churn.</li><li>Ensures all customers are successfully using the product or service they’ve purchased from the company.</li><li>Serve as the primary contact for the onboarding of new customers, the training of platform endusers, and post-go-live support.</li><li>Ensure customers remain satisfied with the product by educating them about functional capabilities in line with their needs.</li><li>Manage Customer Success Activities like Training, Onboarding, Adoption, and support Renewals.</li><li>Identify and communicate potential risks that would threaten renewals and proactively drive action throughout the customer lifecycle to reduce churn.</li><li>This position reports to the Account Manager who will support your learning and development in the role.</li></ul>",
+                        "benefits_headline": "Condiciones",
+                        "benefits": "<p>monthly commissions.<br>onboarding<br>continuous training and learning<br>excellent working environment<br>career commercial development<br>Start date: may 2024</p>",
+                        "desirable_headline": "Opcionales",
+                        "desirable": "<ul><li>Knowledge in Salesforce / Intercom is a plus</li><li>Relevant experience in a SaaS or software company is a plus.</li></ul>",
+                        "remote": false,
+                        "remote_modality": "hybrid",
+                        "remote_zone": null,
+                        "countries": [
+                            "Chile"
+                        ],
+                        "lang": "en",
+                        "category_name": "Customer Support",
+                        "perks": [
+                            "life_insurance",
+                            "health_coverage",
+                            "dental_insurance",
+                            "informal_dresscode"
+                        ],
+                        "min_salary": 900,
+                        "max_salary": 1500,
+                        "published_at": 1715730095,
+                        "response_time_in_days": {
+                            "min": null,
+                            "max": null
+                        },
+                        "applications_count": 103,
+                        "location_regions": {
+                            "data": []
+                        },
+                        "location_tenants": {
+                            "data": []
+                        },
+                        "location_cities": {
+                            "data": [
+                                {
+                                    "id": 1,
+                                    "type": "location_city"
+                                }
+                            ]
+                        },
+                        "modality": {
+                            "data": {
+                                "id": 1,
+                                "type": "modality"
+                            }
+                        },
+                        "seniority": {
+                            "data": {
+                                "id": 2,
+                                "type": "seniority"
+                            }
+                        },
+                        "tags": {
+                            "data": [
+                                {
+                                    "id": 57,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 179,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 267,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 564,
+                                    "type": "tag"
+                                }
+                            ]
+                        },
+                        "company": {
+                            "data": {
+                                "id": 2418,
+                                "type": "company"
+                            }
+                        }
+                    },
+                    "links": {
+                        "public_url": "https://www.getonbrd.com/jobs/customer-success-executive-bnamericas-santiago-3ccb"
+                    }
+                }
+            ],
+            "meta": {
+                "page": 1,
+                "per_page": 1,
+                "total_pages": 30
+            }
+        }
+    },
+    {
+        "category_name": "Design / UX",
+        "jobs": {
+            "data": [
+                {
+                    "id": "disenador-ux-ui-magnet-remote",
+                    "type": "job",
+                    "attributes": {
+                        "title": "Diseño UX/UI",
+                        "description_headline": "Requerimientos del cargo",
+                        "description": "<ul><li>Manejo avanzado de Figma. </li><li>Manejo avanzado de Adobe Illustrator. </li><li>Manejo intermedio de Maze.</li><li> Google Docs Editors (Documentos, Hojas de cálculo, Presentaciones y Formularios).</li><li>Disponibilidad para asistir presencialmente a reuniones con cliente cuando sea necesario. </li></ul>",
+                        "projects": "<div>Magnet es una empresa de ingeniería enfocada en usar software para entregar soluciones de alta calidad a los problemas de nuestros clientes. Nos gusta entender sus procesos y su negocio para así entregarles el máximo valor posible.</div><div>Hace 12 años comenzamos desarrollando pequeñas plataformas de software, pero hoy trabajamos en proyectos como gestionar las limitaciones operacionales de una aerolínea completa o digitalizar el proceso de migraciones de un país.</div><div>Si bien somos bastante exigentes en términos técnicos, ya que tenemos un gran enfoque en la ingeniería, también nos dedicamos a pasarlo bien cada vez que podemos. En ese sentido nos esforzamos muchísimo en tener una cultura abierta, que le permita a todos crecer profesionalmente y sentirse bien en su trabajo, no solo porque entendemos que entregar productos de calidad está directamente relacionado a un equipo feliz, si no que porque ese es el tipo de empresa que decidimos formar.</div>",
+                        "functions_headline": "Funciones del cargo",
+                        "functions": "<div>Buscamos a una persona que esté dispuesta a trabajar con profesionales de diferentes disciplinas y que pueda encontrar respuestas simples a problemas complejos. El diseño es parte importante de nuestros proyectos, necesitaremos que participes activamente en el armado de propuestas, reuniones con clientes, presentaciones de avance y toma de decisiones en conjunto con el equipo de diseño.</div><div>Tus responsabilidades estarán principalmente enfocada en el diseño de maquetas de páginas web y aplicaciones móviles junto a sus estilos gráficos y apariencia final. Si bien esperamos que siempre tengas una opinión sobre cómo debe ser la solución que implementarás, <strong>contarás siempre con el apoyo de una diseñadora senior con la que podrás intercambiar ideas y diseñar la solución. </strong></div><div><strong>Funciones: </strong></div><ul><li>Buscar y analizar referencias de diseño.</li><li>Hacer propuestas en arquitectura de la información. </li><li>Diseñar maquetas (wireframe).</li><li>Diseñar librería de diseño (generación de componentes, guías de estilos, etc).</li><li>Diseñar vistas en alta definición del diseño de interfaz o aplicación (Figma).</li><li>Realizar prototipo navegable de la propuesta de diseño (Figma).</li><li>Realizar prueba de validación con usuario (Maze).</li><li>Realizar análisis de la validación con usuario.</li><li>Dar formato a presentaciones e informes.</li><li>Participar y seguir las actividades parte de las metodología de trabajo Magnet.</li><li>Trabajar en conjunto con desarrolladores Frontend para validar factibilidad de desarrollo de los diseños propuestos y realizar modificaciones en base al feedback recibido. </li></ul>",
+                        "benefits_headline": "Beneficios",
+                        "benefits": "<div>Nos esforzamos en crear un ambiente de trabajo y una cultura que potencie a nuestro equipo. Tenemos una organización horizontal en la que hay espacio para el aporte de todos al tomar decisiones. Fomentamos una cultura abierta para tener feedback constante por parte del equipo y así mejorar cuando nos equivocamos.</div><div>Celebramos los cumpleaños y planificamos actividades de encuentro de equipo durante el año. También el equipo ha creado varios \"clubes secretos\" (no tan secretos) que organizan actividades por su cuenta (trekking, cine, after office, etc).</div><ul><li>El horario es flexible y no te pediremos horas extra, a menos que se esté acabando el mundo y solo nosotros lo podamos solucionar.</li><li>Seguro de salud.</li><li>No tenemos código de vestimenta excepto si visitamos clientes.</li><li>Hay café y snacks siempre.</li></ul><div> Estamos trabajando remoto desde marzo de 2020 pero también tenemos disponible una oficina en Providencia para que vayas cuando quieras. </div>",
+                        "desirable_headline": "Opcionales",
+                        "desirable": "<div>Nos gusta crear diseños intuitivos y adaptados a distintas plataformas de tal manera que sean funcionales, pero siempre con una perspectiva de programación en mente. Nos interesa una buena comunicación con los desarrolladores por lo que cualquier experiencia en HTML, CSS, Bootstrap 4, además de herramientas como Jira es siempre bienvenida.</div>",
+                        "remote": true,
+                        "remote_modality": "remote_local",
+                        "remote_zone": null,
+                        "countries": [
+                            "Remote"
+                        ],
+                        "lang": "lang_not_specified",
+                        "category_name": "Design / UX",
+                        "perks": [
+                            "pet_friendly",
+                            "flexible_hours",
+                            "internal_talks",
+                            "life_insurance",
+                            "paid_sick_days",
+                            "remote_partial",
+                            "health_coverage",
+                            "company_retreats",
+                            "dental_insurance",
+                            "free_car_parking",
+                            "computer_provided",
+                            "personal_coaching",
+                            "informal_dresscode",
+                            "shopping_discounts",
+                            "beverages_and_snacks"
+                        ],
+                        "min_salary": 1000,
+                        "max_salary": 1100,
+                        "published_at": 1715827348,
+                        "response_time_in_days": {
+                            "min": null,
+                            "max": null
+                        },
+                        "applications_count": 22,
+                        "location_regions": {
+                            "data": []
+                        },
+                        "location_tenants": {
+                            "data": [
+                                {
+                                    "id": 1,
+                                    "type": "location_tenant"
+                                }
+                            ]
+                        },
+                        "location_cities": {
+                            "data": []
+                        },
+                        "modality": {
+                            "data": {
+                                "id": 1,
+                                "type": "modality"
+                            }
+                        },
+                        "seniority": {
+                            "data": {
+                                "id": 2,
+                                "type": "seniority"
+                            }
+                        },
+                        "tags": {
+                            "data": [
+                                {
+                                    "id": 8,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 9,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 63,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 103,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 298,
+                                    "type": "tag"
+                                }
+                            ]
+                        },
+                        "company": {
+                            "data": {
+                                "id": 1517,
+                                "type": "company"
+                            }
+                        }
+                    },
+                    "links": {
+                        "public_url": "https://www.getonbrd.com/jobs/disenador-ux-ui-magnet-remote"
+                    }
+                }
+            ],
+            "meta": {
+                "page": 1,
+                "per_page": 1,
+                "total_pages": 36
+            }
+        }
+    },
+    {
+        "category_name": "Operations / Management",
+        "jobs": {
+            "data": [
+                {
+                    "id": "operador-mandadito-bcp-lima",
+                    "type": "job",
+                    "attributes": {
+                        "title": "Operador Mandadito",
+                        "description_headline": "Debes postular a este rol si:",
+                        "description": "<ul><li>Eres egresado de carreras técnicas de Administración de Banca, Finanzas, y/o afines.</li><li>Tienes experiencia mínima de 2 años en atención al cliente en banca.</li><li>Tienes experiencia en transacciones bancarias.</li><li>Microsoft Office (básico)</li></ul>",
+                        "projects": "<p><strong>OPERADOR MANDADITO<br></strong></p><p>Queremos que tu talento se sume al del BCP, para seguir siendo el banco que todo el tiempo está innovando, es pionero y digital. Juntos tendremos la posibilidad de generar un impacto positivo en nuestro país, teniendo como objetivo que los peruanos logren transformar sus planes en realidad. #SumaBCP</p><p><strong>¿Ya sabes que hacemos los OPERADORES MANDADITO?<br></strong></p><p>Somos los encargados de apoyar en gestiones operativas/manuales con el equipo.</p>",
+                        "functions_headline": "Nuestras responsabilidades principales son:",
+                        "functions": "<ul><li>Evaluar y validar los nuevos clientes y operaciones.</li><li>Realizar transferencias monetarias.</li><li>Responsable del buzón de consultas.</li><li>Generar reportes semanales sobre KPIs.</li><li>Realizar llamadas de satisfacción y seguimiento a los usuarios.</li><li>Proponer mejoras y experimentos para levantar indicadores de operación.</li></ul>",
+                        "benefits_headline": "¿Qué beneficios disfrutarás?",
+                        "benefits": "<p>Seguirás sumando experiencia y desarrollo profesional gracias al equipo de grandes líderes, una cultura de colaboración que inspira y oportunidades para innovar. Si estás dispuesto a asumir grandes retos, llegó el momento de sumarte al BCP.</p><ul><li>Ingreso a Planilla (Por proyecto)</li><li>Beneficios Financieros</li><li>Oportunidades de Desarrollo</li></ul>",
+                        "desirable_headline": "Opcionales:",
+                        "desirable": "<ul><li>Salesforce (deseable)</li></ul>",
+                        "remote": false,
+                        "remote_modality": "hybrid",
+                        "remote_zone": null,
+                        "countries": [
+                            "Peru"
+                        ],
+                        "lang": "lang_not_specified",
+                        "category_name": "Operations / Admin",
+                        "perks": [
+                            "computer_provided"
+                        ],
+                        "min_salary": null,
+                        "max_salary": null,
+                        "published_at": 1715827358,
+                        "response_time_in_days": {
+                            "min": null,
+                            "max": null
+                        },
+                        "applications_count": 6,
+                        "location_regions": {
+                            "data": []
+                        },
+                        "location_tenants": {
+                            "data": []
+                        },
+                        "location_cities": {
+                            "data": [
+                                {
+                                    "id": 130,
+                                    "type": "location_city"
+                                }
+                            ]
+                        },
+                        "modality": {
+                            "data": {
+                                "id": 1,
+                                "type": "modality"
+                            }
+                        },
+                        "seniority": {
+                            "data": {
+                                "id": 2,
+                                "type": "seniority"
+                            }
+                        },
+                        "tags": {
+                            "data": [
+                                {
+                                    "id": 179,
+                                    "type": "tag"
+                                }
+                            ]
+                        },
+                        "company": {
+                            "data": {
+                                "id": 7866,
+                                "type": "company"
+                            }
+                        }
+                    },
+                    "links": {
+                        "public_url": "https://www.getonbrd.com/jobs/operador-mandadito-bcp-lima"
+                    }
+                }
+            ],
+            "meta": {
+                "page": 1,
+                "per_page": 1,
+                "total_pages": 48
+            }
+        }
+    },
+    {
+        "category_name": "Sales",
+        "jobs": {
+            "data": [
+                {
+                    "id": "key-account-manager-agri-tcit-santiago-2e22",
+                    "type": "job",
+                    "attributes": {
+                        "title": "Key Account Manager (Agri)",
+                        "description_headline": "¿Cómo nos gustaría que fueras?",
+                        "description": "<ul><li>Educación: Ingenier@ civil, Ingenier@ comercial o carrera afín a ventas</li><li>Experiencia laboral de al menos 1 año en ventas</li><li>Experiencia en prospección de nuevos clientes</li><li>Manejo de Office nivel intermedio-avanzado</li><li>Manejo en sistemas de gestión de negocios (CRM)</li><li>Disponibilidad para trabajar de manera híbrida (3 días presencial, 2 días teletrabajo)</li><li>Vivir en Santiago de Chile (EXCLUYENTE)</li></ul>",
+                        "projects": "<p>Una de nuestras misiones en TCIT es descubrir y potenciar a los mejores talentos, por lo que te invitamos a ser parte de nuestro team!</p><p>Nuestro propósito es transformar digitalmente a distintas organizaciones a través de soluciones de calidad, sostenibles e innovadoras. Trabajamos con metodologías ágiles, utilizamos tecnologías de última generación y somos expertos en desarrollo de software en tecnologías Cloud.</p><p>Algunos de nuestros desarrollos son un sistema de gestión agrícola, un sistema de remates en línea, un sistema de gestión de las causas para los tribunales judiciales, un sistema para monitoreo de certificaciones para trabajadores mineros, un sistema de liquidaciones de sueldo y otras soluciones de gestión de empresas en ámbitos como transporte de carga y bodegaje, entre muchos otros.</p><p>Además, trabajamos en países como Canadá en ambiciosos proyectos con nuestros partners tecnológicos.</p><p>¡Súmate a la revolución digital TCIT!</p>",
+                        "functions_headline": "¿Qué harás?",
+                        "functions": "<ul><li>Aportarás en la definición de la estrategia de prospección y generación de nuevos negocios. Necesitamos a alguien busquilla que encuentre distintos métodos para lograrlo</li><li>Generarás bases de datos de leads calificados basados en la estrategia de prospección y generación de nuevos negocios</li><li>Prospectarás clientes calificados a través de distintas vías</li><li>Cerrarás la mayor cantidad de reuniones posibles con altos ejecutivos de distintas empresas para presentarles los servicios y soluciones que AGRI ofrece</li><li>Elaborarás junto con tu equipo documentos, cotizaciones, presentaciones y contratos para hacer todas las gestiones comerciales y cierres de negocio</li><li>Atenderás como unos reyes a gran variedad de clientes provenientes de múltiples canales de marketing digital (Google Ads, Facebook Ads, RRSS, búsquedas orgánicas)</li><li>Realizarás follow up semanales con los clientes y realizarás visitas presenciales para mantener una relación cercana</li><li>Estarás a cargo de todas las etapas del proceso de ventas, desde el inicio de la interacción con el cliente hasta el cierre de negocio</li><li>Realizarás una bajada inicial de los requerimientos o necesidades del cliente (entendimiento del negocio, identificar los stakeholders del proyecto y sus recursos/capacidades, apoyo en la definición del plan de acción y acompañamiento en el levantamiento técnico)</li><li>Realizarás propuestas para los distintos proyectos/iniciativas (creación, presentación y seguimiento)</li><li>Realizarás gestiones administrativas como la solicitud y gestión de OC, facturas, contratos, etcétera</li><li>Harás seguimiento al cumplimiento de las condiciones comerciales y/o cobranza y seguimiento a los estados de pago de nuestros clientes</li><li>Estarás a cargo de las gestiones de los proyectos en ejecución, apoyando en las coordinaciones de equipos y haciendo levantamientos de nuevos requerimientos</li><li>Mantendrás al día el CRM de la empresa</li><li>Te mantendrás al día de lo que pasa en el mercado</li></ul>",
+                        "benefits_headline": "Beneficios TCIT",
+                        "benefits": "<ul><li>Nuestro horario promedio hace que puedas salir a las 14:00 los días viernes (sí, a las 14:00!!!!)</li><li>Nuestras oficinas quedan a pasos del metro</li><li>Porque sabemos que guatita llena &lt;3 contento, cuando vayas a trabajar a la oficina contamos con almuerzo en una cafetería cercana (¡y esto va por cuenta de TCIT, adicional a la asignación de colación :O!)</li><li>Tendrás permisos flexibles</li><li>Más días de vacaciones</li><li>Vestimenta casual</li><li>Estamos afiliados a Caja de Compensación Los Andes, por lo que puedes acceder a sus cientos de beneficios y convenios</li><li>Estamos afiliados a la ACHS, por lo que tendrás acceso a capacitaciones, beneficios y convenios</li><li>Somos Google Partners, lo que significa que puedes certificarte de manera gratuita!</li><li>Tendrás 1 hora 30 minutos para almorzar!</li><li>Tenemos estacionamiento para bicicletas</li><li>¡Nos encantan los asados y usamos cualquier excusa para juntarnos y compartir!</li><li>El día de tu cumpleaños puedes salir a las 16:00 para celebrar como se debe</li></ul><p>¡Te esperamos!</p>",
+                        "desirable_headline": "Te amaríamos más si tuvieras/fueras:",
+                        "desirable": "<ul><li>Manejo de Hubspot y Pipedrive</li><li>Cartera de clientes en el rubro Agricola</li><li>Experiencia laboral de al menos 1 año en el rubro agrícola (deseable)</li><li>Experiencia laboral de al menos 1 año en venta de SaaS</li><li>Pasion por el campo</li></ul>",
+                        "remote": false,
+                        "remote_modality": "no_remote",
+                        "remote_zone": null,
+                        "countries": [
+                            "Chile"
+                        ],
+                        "lang": "es",
+                        "category_name": "Sales",
+                        "perks": [
+                            "meals_provided",
+                            "bicycle_parking",
+                            "commuting_stipend",
+                            "computer_provided",
+                            "informal_dresscode",
+                            "beverages_and_snacks"
+                        ],
+                        "min_salary": 1200,
+                        "max_salary": 1400,
+                        "published_at": 1715861659,
+                        "response_time_in_days": {
+                            "min": null,
+                            "max": null
+                        },
+                        "applications_count": 167,
+                        "location_regions": {
+                            "data": []
+                        },
+                        "location_tenants": {
+                            "data": []
+                        },
+                        "location_cities": {
+                            "data": [
+                                {
+                                    "id": 1,
+                                    "type": "location_city"
+                                }
+                            ]
+                        },
+                        "modality": {
+                            "data": {
+                                "id": 1,
+                                "type": "modality"
+                            }
+                        },
+                        "seniority": {
+                            "data": {
+                                "id": 3,
+                                "type": "seniority"
+                            }
+                        },
+                        "tags": {
+                            "data": [
+                                {
+                                    "id": 184,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 199,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 202,
+                                    "type": "tag"
+                                }
+                            ]
+                        },
+                        "company": {
+                            "data": {
+                                "id": 2314,
+                                "type": "company"
+                            }
+                        }
+                    },
+                    "links": {
+                        "public_url": "https://www.getonbrd.com/jobs/key-account-manager-agri-tcit-santiago-2e22"
+                    }
+                }
+            ],
+            "meta": {
+                "page": 1,
+                "per_page": 1,
+                "total_pages": 66
+            }
+        }
+    },
+    {
+        "category_name": "Mobile Developer",
+        "jobs": {
+            "data": [
+                {
+                    "id": "software-engineer-flutter-humanforest-santiago",
+                    "type": "job",
+                    "attributes": {
+                        "title": "Software Engineer Flutter",
+                        "description_headline": "Qualifications and requirements",
+                        "description": "<p>Essential Experience:</p><ul><li>2+ years of experience as a Flutter Developer OR 3+ years of combined experience as Android/iOS + Flutter Developer</li><li>Proven software development experience</li></ul><p>Technical Requirements:</p><ul><li>Experience writing applications using Flutter &amp; Dart</li><li>Knowledge of Android or iOS SDKs</li><li>Experience with TDD and testing in general</li><li>Solid understanding of the full mobile development life cycle</li><li>Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies</li><li>Experience with third-party libraries and RESTful APIs</li><li>Proficiency with Git</li></ul><p>Cloud and Deployment:</p><ul><li>Exposure to cloud-based solutions in AWS and GCP</li><li>Experience deploying applications to the stores through some CI/CD</li></ul><p>Soft Skills:</p><ul><li>Obsession with quality</li><li>Proficiency in spoken and written English</li></ul>",
+                        "projects": "<p>HumanForest is a forward-thinking company that operates two innovative brands: Forest and AdMoai. Forest is a pioneering sustainable shared eBike operator in London. AdMoai is a cutting-edge white-label Ad Server solution that powers Forest's advertising ecosystem and other companies' ecosystems. We are a dynamic team of innovators, passionate about creating sustainable and tech-driven solutions. </p><p>We are looking for a dedicated and driven mobile developer who can assist us in expanding, enhancing, and achieving our ambitious growth goals. You will work closely with a multidisciplinary team of engineers, designers, and analysts. Reporting to the Head of Engineering and the Mobile Software Engineer Lead, your main responsibility will be to develop and maintain Forest's mobile application providing our valued customers with the best possible experience.</p><p>These are exciting times for this industry and HumanForest is leading the way with a renewed approach to micro-mobility solutions.</p>",
+                        "functions_headline": "Job functions",
+                        "functions": "<ul><li>Join the development of Forest’s mobile application built with the Flutter framework.</li><li>Collaborate with the managers, designers, and other engineers in the concept, design, development and testing processes.</li><li>Deliver high-quality code.</li><li>Mentor and empower other developers and engineers around you.</li><li>Learn the latest mobile technologies and standards to ensure we always use the best techniques possible.</li></ul>",
+                        "benefits_headline": "Conditions",
+                        "benefits": "",
+                        "desirable_headline": "Desirable skills",
+                        "desirable": "<ul><li>Knowledge of a state management system (BLOC desirable)</li><li>Knowledge of Platform channels</li><li>Experience creating and maintaining own package or plugin</li><li>Routing and dependency injection management with Modular</li></ul>",
+                        "remote": false,
+                        "remote_modality": "hybrid",
+                        "remote_zone": null,
+                        "countries": [
+                            "Chile"
+                        ],
+                        "lang": "en",
+                        "category_name": "Mobile Development",
+                        "perks": [
+                            "pet_friendly",
+                            "flexible_hours",
+                            "remote_partial",
+                            "health_coverage",
+                            "computer_provided",
+                            "informal_dresscode",
+                            "vacation_over_legal"
+                        ],
+                        "min_salary": 3500,
+                        "max_salary": 5100,
+                        "published_at": 1715886739,
+                        "response_time_in_days": {
+                            "min": null,
+                            "max": null
+                        },
+                        "applications_count": 4,
+                        "location_regions": {
+                            "data": []
+                        },
+                        "location_tenants": {
+                            "data": []
+                        },
+                        "location_cities": {
+                            "data": [
+                                {
+                                    "id": 1,
+                                    "type": "location_city"
+                                }
+                            ]
+                        },
+                        "modality": {
+                            "data": {
+                                "id": 1,
+                                "type": "modality"
+                            }
+                        },
+                        "seniority": {
+                            "data": {
+                                "id": 3,
+                                "type": "seniority"
+                            }
+                        },
+                        "tags": {
+                            "data": [
+                                {
+                                    "id": 6,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 7,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 53,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 54,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 119,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 131,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 235,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 253,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 267,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 296,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 355,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 422,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 429,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 437,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 444,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 583,
+                                    "type": "tag"
+                                }
+                            ]
+                        },
+                        "company": {
+                            "data": {
+                                "id": 10869,
+                                "type": "company"
+                            }
+                        }
+                    },
+                    "links": {
+                        "public_url": "https://www.getonbrd.com/jobs/software-engineer-flutter-humanforest-santiago"
+                    }
+                }
+            ],
+            "meta": {
+                "page": 1,
+                "per_page": 1,
+                "total_pages": 35
+            }
+        }
+    },
+    {
+        "category_name": "Innovation & Agile",
+        "jobs": {
+            "data": [
+                {
+                    "id": "senior-product-owner-23people-remote",
+                    "type": "job",
+                    "attributes": {
+                        "title": "Senior Product Owner (Perfil Informático)",
+                        "description_headline": "Requerimientos del cargo",
+                        "description": "<div>Skills 🧑‍💻👩‍💻</div><p>• Generación de historias de usuario.<br>• Jira, Trello o similar (Confluence) (excluyente).<br>• Gestión de las incidencias<br>• Mantis Bug Tracker o similar (excluyente).<br>• Conocimientos básicos a intermedios de tecnología en la nube y tecnología de datos.<br>• Conocimientos sobre metodologías de proyectos.<br>• Conocimientos sobre metodologías de pruebas: Definición de un plan de prueba<br>• Herramientas para ejecución de pruebas automatizada<br>• Experiencia con base de datos.<br>• Nivel de inglés: A2 o +</p><div>Contrato indefinido desde el inicio con 23people<br>Modalidad: Home Office, Con residencia en Chile (Deberás ir a buscar el PC en primera instancia)<br>Experiencia: Desde 5 años en adelante<br>Horario: Artículo 22</div>",
+                        "projects": "<div>Equifax, líder mundial en datos y tecnología, opera globalmente, incluyendo Chile. Nuestra visión es ser líderes indiscutibles, ofreciendo soluciones innovadoras para decisiones financieras informadas. Enfrentamos desafíos tecnológicos y normativos. Promovemos una cultura de innovación y crecimiento profesional. Buscamos un Senior Product Owner para gestionar la demanda y el equipo. Si te apasiona liderar proyectos en un entorno dinámico, únete a nuestro equipo global.</div>",
+                        "functions_headline": "Funciones del cargo",
+                        "functions": "<div>¿Qué harás en tu día a día?</div><ul><li>Responsable de apoyar en la gestión de la demanda al administrar los requerimientos y el alcance del backlog del equipo, esto a través de la conversación con los stakeholders y clientes internos, interiorizando el objetivo del desarrollo al equipo, priorizando sus tareas, generando planes de certificación de los desarrollos y siendo el canal de comunicación entre la célula y el negocio.</li></ul>",
+                        "benefits_headline": "Beneficios",
+                        "benefits": "<div>Algunos de nuestros beneficios:</div><ul><li><strong>Seguro complementario:</strong> Seguro de salud, vida y dental</li><li><strong>Curso de inglés:</strong> En nuestro programa de formación en idioma inglés, ofrecemos dos modalidades para adaptarnos a tus necesidades y objetivos.</li><li><strong>Reembolso de certificaciones internacionales: </strong>Apoyamos el crecimiento profesional, por lo que te reembolsamos el costo de un examen de certificación internacional que quieras realizar.</li><li><strong>Bono de vacaciones: </strong>Por cada semana que te tomes de vacaciones te otorgamos una compensación.</li><li><strong>Aguinaldos en fiestas patrias y navidad: </strong>Queremos que en fechas tan especiales la pases bien junto a tu familia, por lo que te entregamos un bono en septiembre y diciembre</li><li><strong>Día libre de cumpleaños</strong>: Puedes optar por tomar tu día libre, el día previo a tu cumpleaños, el mismo día de tu cumpleaños o el día posterior.</li></ul>",
+                        "desirable_headline": "Deseables",
+                        "desirable": "<div>• Experiencia con Scrum</div>",
+                        "remote": true,
+                        "remote_modality": "remote_local",
+                        "remote_zone": null,
+                        "countries": [
+                            "Remote"
+                        ],
+                        "lang": "es",
+                        "category_name": "Product, Innovation & Agile",
+                        "perks": [
+                            "flexible_hours",
+                            "life_insurance",
+                            "health_coverage",
+                            "dental_insurance",
+                            "computer_provided",
+                            "informal_dresscode",
+                            "vacation_on_birthday"
+                        ],
+                        "min_salary": 2600,
+                        "max_salary": 2900,
+                        "published_at": 1715866853,
+                        "response_time_in_days": {
+                            "min": null,
+                            "max": null
+                        },
+                        "applications_count": 127,
+                        "location_regions": {
+                            "data": []
+                        },
+                        "location_tenants": {
+                            "data": [
+                                {
+                                    "id": 1,
+                                    "type": "location_tenant"
+                                }
+                            ]
+                        },
+                        "location_cities": {
+                            "data": []
+                        },
+                        "modality": {
+                            "data": {
+                                "id": 1,
+                                "type": "modality"
+                            }
+                        },
+                        "seniority": {
+                            "data": {
+                                "id": 4,
+                                "type": "seniority"
+                            }
+                        },
+                        "tags": {
+                            "data": [
+                                {
+                                    "id": 267,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 305,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 359,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 583,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 736,
+                                    "type": "tag"
+                                }
+                            ]
+                        },
+                        "company": {
+                            "data": {
+                                "id": 4457,
+                                "type": "company"
+                            }
+                        }
+                    },
+                    "links": {
+                        "public_url": "https://www.getonbrd.com/jobs/senior-product-owner-23people-remote"
+                    }
+                }
+            ],
+            "meta": {
+                "page": 1,
+                "per_page": 1,
+                "total_pages": 48
+            }
+        }
+    },
+    {
+        "category_name": "Education & Coaching",
+        "jobs": {
+            "data": [
+                {
+                    "id": "practicante-pre-profesional-campanas-comerc-bcp-lima",
+                    "type": "job",
+                    "attributes": {
+                        "title": "Práctica Pre Profesional Campañas Comerciales",
+                        "description_headline": "Requerimientos del cargo",
+                        "description": "<ul><li>Estudiantes de 7mo ciclo en adelante de las carreras de Administracion, Ingenieria Empresarial, Marketing, Ingenieria Industrial, carreras ligadas a innovación.</li><li>Conocimientos sobre productos digitales.</li><li>Conocimiento de Dashboards, pensamiento crítico, analisis de resultados.</li><li>MS Office - Excel a nivel intermedio - avanzado (tablas dinamicas, formulas), Power point avanzado, Power BI y/o Tableau.</li></ul>",
+                        "projects": "<h2><strong>PRACTICANTE PRE PROFESIONAL - CAMPAÑAS COMERCIALES</strong></h2><p>Queremos que tu talento se sume al del BCP, para seguir siendo el banco que todo el tiempo está innovando, es pionero y digital. Juntos tendremos la posibilidad de generar un impacto positivo en nuestro país, teniendo como objetivo que los peruanos logren transformar sus planes en realidad. #SumaBCP</p><p><strong>¿Ya sabes que hacemos los PRACTICANTE PRE PROFESIONAL - CAMPAÑAS COMERCIALES?</strong></p><p>Somos los encargados de realizar dashboards, así como interpretar y analizar los resultados.</p>",
+                        "functions_headline": "Funciones del cargo",
+                        "functions": "<ul><li>Investigar sobre el Mercado: Analiza tendencias del mercado digital, entender la competencia y benchmarks y también poder definir a nuestro usuario.</li><li>Gestionar conversaciones con Stakeholders: Manejar expectativas de stakeholders internos y externos en un contexto digital y comunicar regularmente el progreso y las decisiones del producto.</li><li>Entendimiento sobre los componentes de tecnología: arquitectura de software, front y backend.</li><li>Analizar/monitorear indicadores de desarrollo del equipo (cumplimiento de metas, velocidad de desarrollo).</li><li>Analizar y dar seguimiento a los indicadores del negocio: adquisición, reactivación, retención y generación de ingresos.</li><li>Trabajar muy de cerca con distintos roles de tecnología como arquitectos de software,desarrolladores backend, frontend y QAs.</li><li>Participar en la definición de los principales KPIs del negocio, proponer soluciones y mejoras en los procesos actuales.</li><li>Manejar bases de datos para poder sintetizar información y poder llegar a conclusiones en función a la data.</li><li>Entrevistar y conversar con usuarios para poder hallar distintos insights que traigan mejoras e iteraciones.</li><li>Apoyar en el planeamiento y ejecución de campañas comerciales para adquisición, reactivación y retención de clientes (pauta, redes orgánicas, email, charlas a clientes, etc)</li></ul>",
+                        "benefits_headline": "Condiciones",
+                        "benefits": "<ul><li>Contrato de Prácticas.</li><li>Beneficios de ley.</li></ul>",
+                        "desirable_headline": "Opcionales",
+                        "desirable": "<ul><li>Conocimientos en ejecución de campañas comerciales y monitoreo de métricas de negocio/resultados.</li><li>SQL</li></ul>",
+                        "remote": false,
+                        "remote_modality": "hybrid",
+                        "remote_zone": null,
+                        "countries": [
+                            "Peru"
+                        ],
+                        "lang": "es",
+                        "category_name": "Education & Coaching",
+                        "perks": [
+                            "flexible_hours",
+                            "remote_partial",
+                            "health_coverage",
+                            "computer_provided"
+                        ],
+                        "min_salary": null,
+                        "max_salary": null,
+                        "published_at": 1714952601,
+                        "response_time_in_days": {
+                            "min": null,
+                            "max": null
+                        },
+                        "applications_count": 103,
+                        "location_regions": {
+                            "data": []
+                        },
+                        "location_tenants": {
+                            "data": []
+                        },
+                        "location_cities": {
+                            "data": [
+                                {
+                                    "id": 130,
+                                    "type": "location_city"
+                                }
+                            ]
+                        },
+                        "modality": {
+                            "data": {
+                                "id": 1,
+                                "type": "modality"
+                            }
+                        },
+                        "seniority": {
+                            "data": {
+                                "id": 1,
+                                "type": "seniority"
+                            }
+                        },
+                        "tags": {
+                            "data": [
+                                {
+                                    "id": 57,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 60,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 95,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 176,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 361,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 362,
+                                    "type": "tag"
+                                }
+                            ]
+                        },
+                        "company": {
+                            "data": {
+                                "id": 7866,
+                                "type": "company"
+                            }
+                        }
+                    },
+                    "links": {
+                        "public_url": "https://www.getonbrd.com/jobs/practicante-pre-profesional-campanas-comerc-bcp-lima"
+                    }
+                }
+            ],
+            "meta": {
+                "page": 1,
+                "per_page": 1,
+                "total_pages": 2
+            }
+        }
+    },
+    {
+        "category_name": "Other",
+        "jobs": {
+            "data": [
+                {
+                    "id": "analista-de-tesoreria-2brains-remote",
+                    "type": "job",
+                    "attributes": {
+                        "title": "Analista de Tesorería",
+                        "description_headline": "¿Qué conocimientos buscamos en/la Analista de Tesorería?",
+                        "description": "<ul><li>Excel avanzado, incluyendo tablas dinámicas y otras funciones avanzadas.</li><li>Experiencia mínima de 3 años en roles similares.</li><li>Formación académica en Contador Auditor o al menos técnico universitario relacionado.</li><li>Experiencia en el manejo de pagos de comercio exterior (COMEX).</li><li>Sólidos conocimientos contables y experiencia en contabilización de transacciones financieras complejas.</li><li>Habilidad para realizar reportería financiera y análisis de cuentas de balance.</li><li>Experiencia en gestión de procesos y emisión de comprobantes contables.</li><li>Conocimiento de plataformas bancarias y experiencia en la coordinación y planificación de pagos.</li><li>Familiaridad con software ERP, preferiblemente experiencia con Skualo.</li><li>Excelentes habilidades de comunicación y capacidad para trabajar en equipo.</li></ul>",
+                        "projects": "<div><strong>Grupo Kunga SpA </strong>es un equipo de trabajo donde se reúnen diversas competencias, experiencias, conocimientos, personalidades y carreras laborales con el desafío de impulsar el crecimiento de las empresas que administramos en las distintas industrias donde colaboramos, en un esfuerzo de mantenernos en constante evolución, adoptamos un enfoque a largo plazo.</div><div>Creemos en el valor exponencial de la diversidad de talentos para obtener grandes resultados de equipo que se ven reflejados en los negocios.</div><div>Tenemos +10 años de vida.</div><div>Somos inquietos desde nuestra fundación.</div><div>Buscamos personas que deseen mantenerse en constante aprendizaje, con Pasión y motor propio.</div><div>Estamos en búsqueda de un Analista de Tesorería Semi Senior para unirse a nuestro equipo. El candidato ideal será responsable de gestionar las operaciones financieras de la empresa, garantizando la eficiencia y precisión en todos los procesos relacionados con la tesorería</div>",
+                        "functions_headline": "El perfil del o la Analista de Tesorería de Kunga debe",
+                        "functions": "<ul><li>Manejar plataformas bancarias para realizar transacciones financieras, incluyendo pagos de comercio exterior (COMEX).</li><li>Procesar pagos de remuneraciones, impuestos (IVA), imposiciones y proveedores, asegurando la exactitud y puntualidad.</li><li>Realizar actividades contables avanzadas, como contabilizar anticipos a proveedores, fondos por rendir e ingresos y egresos de caja.</li><li>Generar reportes de pagos semanales y realizar la coordinación y planificación de los mismos.</li><li>Analizar cuentas de balance para identificar posibles desviaciones o anomalías.</li><li>Gestionar procesos relacionados con la tesorería para optimizar la eficiencia operativa.</li><li>Emitir comprobantes contables y mantener registros precisos de todas las transacciones financieras.</li><li>Colaborar en la implementación y utilización de software ERP, preferiblemente con experiencia en Skualo.</li><li>Mantener una comunicación efectiva con otros departamentos y partes interesadas.</li><li>Demostrar capacidad de análisis, organización, planificación, autonomía y flexibilidad en el desempeño de sus funciones.</li></ul>",
+                        "benefits_headline": "Te ofrecemos",
+                        "benefits": "<ul><li>Trabajar con un equipo de alto rendimiento, aprendemos y nos desarrollamos juntos.</li><li>Aprendizaje y crecimiento permanente.</li><li>Un entorno de trabajo flexible y dinámico.</li><li>Beneficios especiales: día libre para tu cumpleaños, 4 semanas de vacaciones.</li><li>Trabajo híbrido (algunos días puedes trabajar desde casa).</li><li>Asignación de computadora para tu trabajo.</li><li>Código de vestimenta informal.</li></ul>",
+                        "desirable_headline": "¿Qué competencias buscamos en/la Analista de Tesorería?",
+                        "desirable": "<ul><li>Autonomía.</li><li>Comunicación efectiva.</li><li>Pensamiento analítico.</li><li>Proactividad.</li><li>Adaptación y flexibilidad.</li><li>Eficiencia y disciplina.</li><li>Empatía con otros.</li></ul>",
+                        "remote": false,
+                        "remote_modality": "hybrid",
+                        "remote_zone": null,
+                        "countries": [
+                            "Chile"
+                        ],
+                        "lang": "es",
+                        "category_name": "Other categories",
+                        "perks": [],
+                        "min_salary": null,
+                        "max_salary": null,
+                        "published_at": 1715159136,
+                        "response_time_in_days": {
+                            "min": null,
+                            "max": null
+                        },
+                        "applications_count": 3,
+                        "location_regions": {
+                            "data": []
+                        },
+                        "location_tenants": {
+                            "data": []
+                        },
+                        "location_cities": {
+                            "data": [
+                                {
+                                    "id": 1,
+                                    "type": "location_city"
+                                }
+                            ]
+                        },
+                        "modality": {
+                            "data": {
+                                "id": 1,
+                                "type": "modality"
+                            }
+                        },
+                        "seniority": {
+                            "data": {
+                                "id": 3,
+                                "type": "seniority"
+                            }
+                        },
+                        "tags": {
+                            "data": [
+                                {
+                                    "id": 57,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 656,
+                                    "type": "tag"
+                                }
+                            ]
+                        },
+                        "company": {
+                            "data": {
+                                "id": 1836,
+                                "type": "company"
+                            }
+                        }
+                    },
+                    "links": {
+                        "public_url": "https://www.getonbrd.com/jobs/analista-de-tesoreria-2brains-remote"
+                    }
+                }
+            ],
+            "meta": {
+                "page": 1,
+                "per_page": 1,
+                "total_pages": 9
+            }
+        }
+    },
+    {
+        "category_name": "People & HR",
+        "jobs": {
+            "data": [
+                {
+                    "id": "payroll-management-specialist-sql-rankmi-santiago",
+                    "type": "job",
+                    "attributes": {
+                        "title": "Payroll Management Specialist (SQL)",
+                        "description_headline": "Requerimientos del cargo",
+                        "description": "<ul><li>Formación en carreras como Ingeniería en RRHH, Contabilidad, Ingeniera Civil, Comercial o afín.</li><li>Contar con <strong>más de 4 años de experiencia Nómina y Legislación Laboral Chilena.</strong></li><li>Experiencia en <strong>haber implementado módulos de nómina (excluyente) como Consultor Externo para empresas B2B.</strong></li><li>Dominio de <strong>Excel Avanzado (excluyente) y consultas SQL.</strong></li><li>Es deseable contar con experiencia en Gestión de Proyectos con metodología ágil, Legislación Laboral Extranjera.</li></ul>",
+                        "projects": "<p><strong>💖 ¿Por qué trabajar en Rankmi?<br></strong>En <strong>Rankmi</strong>, no solo somos apasionados por la tecnología, sino que también fomentamos un ambiente alegre y colaborativo. 💪 Apreciamos la innovación y acogemos el ritmo vibrante del cambio, creando un espacio donde cada miembro del equipo tiene un rol valioso en nuestro éxito común.</p><p><strong>¿Quieres ser nuestr@ próxim@ Payroll Management Specialist? 😍<br></strong>En tu rol tendrás que asegurar la implementación efectiva y eficiente de nuestro sistema de nómina que cumpla con los requisitos específicos de los clientes, garantizando la precisión, conformidad con regulaciones locales y una gestión óptima de la información de remuneraciones. Facilitar soluciones integrales que mejoren la operatividad y satisfacción del cliente, a través de un soporte experto y continuo mejoramiento de procesos.</p>",
+                        "functions_headline": "Funciones del cargo",
+                        "functions": "<ul><li>Colaborar con los clientes para comprender sus necesidades específicas en cuanto a procesamiento de nómina y remuneración, así como recopilar requisitos para la implementación de los sistemas.</li><li>Utilizar tu <strong>experiencia en remuneraciones y sistemas de nómina </strong>para diseñar soluciones adaptadas a las necesidades y regulaciones específicas de cada cliente.</li><li><strong>Configurar y personalizar los módulos de remuneraciones</strong> en los sistemas de gestión de nómina según los requisitos del cliente, asegurándote de que los cálculos sean precisos y cumplan con las regulaciones locales.</li><li><strong>Utilizar SQL o Excel para integrar o migrar datos de múltiples fuentes</strong>, para garantizar la coherencia y la integridad de los datos de remuneración.</li><li>Utilizar Excel y otras herramientas de generación de informes para <strong>desarrollar informes personalizados</strong> que proporcionen a los clientes una visión detallada de la información de remuneración, como registros de pago, deducciones, impuestos, y análisis de costos laborales.</li><li><strong>Realizar pruebas exhaustivas de los sistemas de remuneración implementados</strong> para garantizar que los cálculos sean precisos y cumplan con los requisitos del cliente y las regulaciones locales.</li><li><strong>Proporcionar soporte a los usuarios finales sobre el uso del sistema de remuneraciones</strong> y brindar ayuda continua para resolver problemas y responder preguntas relacionadas con el procesamiento de nómina.</li><li>Colaborar con los clientes para garantizar que los sistemas de remuneraciones se mantengan actualizados con los cambios en las regulaciones laborales y los requisitos del negocio, y realizar actualizaciones y mejoras según sea necesario.</li><li>Apoyar al equipo en los requerimientos solicitados por su jefatura.</li></ul>",
+                        "benefits_headline": "Nuestros Beneficios",
+                        "benefits": "<p>🏄🏼‍♀️ <strong>Work-Life Balance<br></strong></p><ul><li>Blended Working: Nuestro modelo de trabajo es híbrido en las oficinas de Chile, Perú y México.</li><li>Días de vacaciones adicionales para desconectarte y recargar energías.</li><li>Día libre para mudanza.</li><li>Permisos de días libres sin goce de sueldo.</li><li>Flexibilidad en horarios laborales. Somos autónomos, sabemos que nuestros compañeros y clientes confían en que seremos responsables.</li></ul><p>💖 <strong>We Care<br></strong></p><ul><li>Medio día libre en tu cumpleaños, en el de tus hijos/as, y/o cónyuge.</li><li>Permiso de postnatal adicional para padres.</li><li>Bonos por diversas ocasiones: programa de referidos, matrimonio/unión civil, nacimiento de hijo/as.</li><li>Porque nuestras mascotas también son parte de la familia, te ofrecemos un día libre en caso de pérdida.</li></ul><p>✨ <strong>Rankmi Vibes<br></strong></p><ul><li>Dress code relajado.</li><li>Trabajo con metodologías ágiles y equipos multidisciplinarios.</li><li>Ambiente relajado y multicultural.</li><li>¡Rankmi puntos para usar en nuestra tiendita! Utiliza tus puntos para canjear merch de Rankmi, eGiftCards o cursos en Udemy.</li></ul>",
+                        "desirable_headline": "Opcionales",
+                        "desirable": "",
+                        "remote": false,
+                        "remote_modality": "hybrid",
+                        "remote_zone": null,
+                        "countries": [
+                            "Chile"
+                        ],
+                        "lang": "lang_not_specified",
+                        "category_name": "People & HR",
+                        "perks": [
+                            "pet_friendly",
+                            "remote_partial",
+                            "health_coverage",
+                            "computer_provided",
+                            "informal_dresscode",
+                            "vacation_over_legal"
+                        ],
+                        "min_salary": null,
+                        "max_salary": null,
+                        "published_at": 1715611523,
+                        "response_time_in_days": {
+                            "min": null,
+                            "max": null
+                        },
+                        "applications_count": 7,
+                        "location_regions": {
+                            "data": []
+                        },
+                        "location_tenants": {
+                            "data": []
+                        },
+                        "location_cities": {
+                            "data": [
+                                {
+                                    "id": 1,
+                                    "type": "location_city"
+                                }
+                            ]
+                        },
+                        "modality": {
+                            "data": {
+                                "id": 1,
+                                "type": "modality"
+                            }
+                        },
+                        "seniority": {
+                            "data": {
+                                "id": 3,
+                                "type": "seniority"
+                            }
+                        },
+                        "tags": {
+                            "data": [
+                                {
+                                    "id": 57,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 64,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 561,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 709,
+                                    "type": "tag"
+                                }
+                            ]
+                        },
+                        "company": {
+                            "data": {
+                                "id": 1339,
+                                "type": "company"
+                            }
+                        }
+                    },
+                    "links": {
+                        "public_url": "https://www.getonbrd.com/jobs/payroll-management-specialist-sql-rankmi-santiago"
+                    }
+                }
+            ],
+            "meta": {
+                "page": 1,
+                "per_page": 1,
+                "total_pages": 11
+            }
+        }
+    },
+    {
+        "category_name": "Technical Support",
+        "jobs": {
+            "data": [
+                {
+                    "id": "consultor-ti-tcit-santiago-b831",
+                    "type": "job",
+                    "attributes": {
+                        "title": "Consultor TI",
+                        "description_headline": "¿Cómo nos gustaría que fueras?",
+                        "description": "<ul><li>Título de ingeniero comercial, ingeniero civil industrial o afín</li><li>Experiencia profesional de al menos 3 años como Consultor o en área de ventas informática</li><li>Capacidad de análisis y resolución de problemas</li><li>Visión estratégica del negocio</li><li>Persuasión y comunicación efectiva</li><li>Orientación al cliente</li><li>Experiencia en gestión de proyectos</li><li>Nivel de inglés intermedio-avanzado</li><li>Manejo de Excel intermedio-avanzado</li></ul>",
+                        "projects": "<p>Una de nuestras misiones en TCIT es descubrir y potenciar a los mejores talentos, por lo que te invitamos a ser parte de nuestro team!</p><p>Nuestro propósito es transformar digitalmente a distintas organizaciones a través de soluciones de calidad, sostenibles e innovadoras. Trabajamos con metodologías ágiles, utilizamos tecnologías de última generación y somos expertos en desarrollo de software en tecnologías Cloud.</p><p>Algunos de nuestros desarrollos son un sistema de gestión agrícola, un sistema de remates en línea, un sistema de gestión de las causas para los tribunales judiciales, un sistema para monitoreo de certificaciones para trabajadores mineros, un sistema de liquidaciones de sueldo y otras soluciones de gestión de empresas en ámbitos como transporte de carga y bodegaje, entre muchos otros.</p><p>Además, trabajamos en países como Canadá en ambiciosos proyectos con nuestros partners tecnológicos.</p><p>¡Súmate a la revolución digital TCIT!</p>",
+                        "functions_headline": "¿Qué harás?",
+                        "functions": "<ul><li>Asesorarás a nuestros clientes en su proceso de transformación digital para contribuir en la consecución de sus objetivos, el mantenimiento de su competitividad y desarrollo de sus negocios</li><li>Identificarás las necesidades del cliente orientado a dar una respuesta eficiente y eficaz a sus requerimientos</li><li>Analizarás la situación de la empresa para detectar posibles errores o mejoras en las que basar tu asesoría</li><li>Te convertirás en un socio estratégico para nuestros clientes</li><li>Diseñarás y propondrás soluciones de negocio creativas e innovadoras</li><li>Generarás propuestas para optimizar y mejorar las infraestructuras de nuestros clientes</li><li>Serás capaz de traducir a lenguaje técnico el negocio y las necesidades del cliente y viceversa</li><li>Serás capaz de gestionar incidencias, incontemplados o problemas que puedan suscitarse</li><li>Serás un ninja gestionando y optimizando recursos y presupuestos</li><li>Te mantendrás actualizado acerca de las dinámicas del mercado y de las nuevas tecnologías del sector</li><li>Trabajarás en un equipo multidisciplinario de la mano con nuestros Jefes de Proyecto, Líderes Técnicos y Área Comercial</li></ul>",
+                        "benefits_headline": "Beneficios TCIT",
+                        "benefits": "<ul><li>Nuestro horario promedio hace que puedas salir a las 14:00 los días viernes (sí, a las 14:00!!!!)</li><li>Nuestras oficinas quedan a pasos del metro</li><li>Porque sabemos que guatita llena &lt;3 contento, cuando vayas a trabajar a la oficina contamos con almuerzo en una cafetería cercana (¡y esto va por cuenta de TCIT, aparte del bono de almuerzo :O!)</li><li>Tendrás permisos flexibles</li><li>Más días de vacaciones</li><li>Vestimenta casual</li><li>Estamos afiliados a Caja de Compensación Los Andes, por lo que puedes acceder a sus cientos de beneficios y convenios</li><li>Estamos afiliados a la ACHS, por lo que tendrás acceso a capacitaciones, beneficios y convenios</li><li>Somos Google Partners, lo que significa que puedes certificarte de manera gratuita!</li><li>Tendrás 1 hora 30 minutos para almorzar!</li><li>Tenemos estacionamiento para bicicletas</li><li>¡Nos encantan los asados y usamos cualquier excusa para juntarnos y compartir!</li><li>El día de tu cumpleaños puedes salir a las 16:00 para celebrar como se debe</li></ul><p>¡Te esperamos!</p>",
+                        "desirable_headline": "",
+                        "desirable": "",
+                        "remote": false,
+                        "remote_modality": "hybrid",
+                        "remote_zone": null,
+                        "countries": [
+                            "Chile"
+                        ],
+                        "lang": "lang_not_specified",
+                        "category_name": "Technical Support",
+                        "perks": [
+                            "internal_talks",
+                            "meals_provided",
+                            "bicycle_parking",
+                            "commuting_stipend",
+                            "informal_dresscode",
+                            "vacation_over_legal",
+                            "beverages_and_snacks"
+                        ],
+                        "min_salary": 2000,
+                        "max_salary": 3000,
+                        "published_at": 1715861322,
+                        "response_time_in_days": {
+                            "min": null,
+                            "max": null
+                        },
+                        "applications_count": 66,
+                        "location_regions": {
+                            "data": []
+                        },
+                        "location_tenants": {
+                            "data": []
+                        },
+                        "location_cities": {
+                            "data": [
+                                {
+                                    "id": 1,
+                                    "type": "location_city"
+                                }
+                            ]
+                        },
+                        "modality": {
+                            "data": {
+                                "id": 1,
+                                "type": "modality"
+                            }
+                        },
+                        "seniority": {
+                            "data": {
+                                "id": 3,
+                                "type": "seniority"
+                            }
+                        },
+                        "tags": {
+                            "data": [
+                                {
+                                    "id": 57,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 199,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 200,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 267,
+                                    "type": "tag"
+                                }
+                            ]
+                        },
+                        "company": {
+                            "data": {
+                                "id": 2314,
+                                "type": "company"
+                            }
+                        }
+                    },
+                    "links": {
+                        "public_url": "https://www.getonbrd.com/jobs/consultor-ti-tcit-santiago-b831"
+                    }
+                }
+            ],
+            "meta": {
+                "page": 1,
+                "per_page": 1,
+                "total_pages": 12
+            }
+        }
+    },
+    {
+        "category_name": "Cybersecurity",
+        "jobs": {
+            "data": [
+                {
+                    "id": "cybersecurity-engineer-kibernum-santiago",
+                    "type": "job",
+                    "attributes": {
+                        "title": "Cybersecurity Engineer",
+                        "description_headline": "Requerimientos del cargo",
+                        "description": "<ul><li>Idioma: Inglés avanzado.</li><li>Experiencia: 2-3 años en ethical hacking, 1-2 años en AWS.</li><li>Certificaciones en Seguridad Informática/de la Información, Ethical Hacking y AWS - Cloud Practitioner.</li><li>Conocimientos de estándares de seguridad de la información ISO 27000.</li></ul>",
+                        "projects": "<p><strong>Kibernum</strong>, es una de las empresas <strong>líderes</strong> en tecnología presente en <strong>Chile</strong>, <strong>Perú</strong>, <strong>Colombia</strong> y <strong>USA</strong>.🌍Llevamos más de 30 años en el mercado entregando servicios de calidad y gran valor agregado a nuestros clientes, por lo que nos encontramos muy bien posicionados.😎</p><p>En KIBERNUM nos mueve instalar capacidades flexibles, a través del mejor<strong> talento tech</strong> del mundo, para impulsar la <strong>evolución digital</strong>. Actualmente contamos con una dotación que supera los 1500 colaboradores, cuyas áreas de expertise se destacan entre otras: tech, Staffing, IT Academy y Agile Delivery. 🤟</p>",
+                        "functions_headline": "Funciones del cargo",
+                        "functions": "<ul><li>Gestionar y recolectar todas las actividades concernientes al programa de seguridad de la Información.</li><li>Supervisar el monitoreo y ejecución continua de procesos, procedimientos y proyectos relacionados con seguridad de la información.</li><li>Gestionar y monitorear los accesos físicos y lógicos a sistemas de información, dispositivos de comunicación y centros de datos para la detección de accesos no autorizados.</li><li>Apoyar la gestión de riesgos y alertar sobre posibles riesgos que atenten contra la seguridad de la información.</li><li>Aportar iniciativas para optimizar procesos de seguridad de la información enfocados en el desarrollo seguro de aplicaciones.</li><li>Gestionar escaneos, evaluaciones de vulnerabilidad y test de penetración sobre infraestructura y aplicaciones, y su debida remediación.</li><li>Realizar concientización sobre seguridad de la información a empleados internos, externos y proveedores.</li><li>Ejecutar auditorías internas a los procesos de tecnología y seguridad de la información.</li></ul>",
+                        "benefits_headline": "Condiciones",
+                        "benefits": "<ul><li>Tipo de contrato: Indefinido.</li><li>Jornada laboral: Lunes a viernes.</li><li>Horario laboral: 08:30 - 18:30 (híbrido 2-3 veces por semana).</li><li>Dirección laboral: Providencia, Región Metropolitana.</li></ul><p><strong>Beneficios:</strong></p><ul><li>Seguro de salud.</li><li>Seguro de vida.</li><li>Seguro dental.</li><li>Reajuste periódico en tu remuneración.</li><li>Plan de capacitación.</li><li>Bono por fiestas patrias.</li><li>Bono de navidad.</li><li>Convenio sala cuna.</li></ul>",
+                        "desirable_headline": "Opcionales",
+                        "desirable": "",
+                        "remote": false,
+                        "remote_modality": "hybrid",
+                        "remote_zone": null,
+                        "countries": [
+                            "Chile"
+                        ],
+                        "lang": "lang_not_specified",
+                        "category_name": "Cybersecurity",
+                        "perks": [
+                            "flexible_hours",
+                            "health_coverage",
+                            "dental_insurance",
+                            "computer_provided"
+                        ],
+                        "min_salary": null,
+                        "max_salary": null,
+                        "published_at": 1715633864,
+                        "response_time_in_days": {
+                            "min": null,
+                            "max": null
+                        },
+                        "applications_count": 7,
+                        "location_regions": {
+                            "data": []
+                        },
+                        "location_tenants": {
+                            "data": []
+                        },
+                        "location_cities": {
+                            "data": [
+                                {
+                                    "id": 1,
+                                    "type": "location_city"
+                                }
+                            ]
+                        },
+                        "modality": {
+                            "data": {
+                                "id": 1,
+                                "type": "modality"
+                            }
+                        },
+                        "seniority": {
+                            "data": {
+                                "id": 3,
+                                "type": "seniority"
+                            }
+                        },
+                        "tags": {
+                            "data": [
+                                {
+                                    "id": 119,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 131,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 235,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 267,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 364,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 433,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 583,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 759,
+                                    "type": "tag"
+                                }
+                            ]
+                        },
+                        "company": {
+                            "data": {
+                                "id": 601,
+                                "type": "company"
+                            }
+                        }
+                    },
+                    "links": {
+                        "public_url": "https://www.getonbrd.com/jobs/cybersecurity-engineer-kibernum-santiago"
+                    }
+                }
+            ],
+            "meta": {
+                "page": 1,
+                "per_page": 1,
+                "total_pages": 23
+            }
+        }
+    },
+    {
+        "category_name": "Machine Learning & AI",
+        "jobs": {
+            "data": [
+                {
+                    "id": "lead-machine-learning-neuralworks-santiago",
+                    "type": "job",
+                    "attributes": {
+                        "title": "Lead Machine Learning",
+                        "description_headline": "Calificaciones clave",
+                        "description": "<ul><li>Al menos 4 años de experiencia como Machine Learning, Software Engineer, otros</li><li>Al menos 3 años de experiencia liderando un equipo de ingeniería de software</li><li>Entendimiento de flujo de vida completo modelos de Machine Learning</li><li>Excelentes habilidades de comunicación y colaboración, con capacidad para trabajar eficazmente en equipos multidisciplinarios y comunicar conceptos técnicos a partes interesadas no técnicas</li><li>Buen manejo de inglés</li><li>Habilidades de comunicación y trabajo colaborativo</li><li>Experiencia con plataformas de computación en nube, como AWS o GCP</li></ul>",
+                        "projects": "<p>NeuralWorks es una compañía de alto crecimiento fundada hace aproximadamente 2 años. Estamos trabajando a toda máquina en cosas que darán que hablar.<br>Somos un equipo donde se unen la creatividad, curiosidad y la pasión por hacer las cosas bien. Nos arriesgamos a explorar fronteras donde otros no llegan: un modelo predictor basado en monte carlo, una red convolucional para detección de caras, un sensor de posición bluetooth, la recreación de un espacio acústico usando finite impulse response.<br>Estos son solo algunos de los desafíos, donde aprendemos, exploramos y nos complementamos como equipo para lograr cosas impensadas.<br>Trabajamos en proyectos propios y apoyamos a corporaciones en partnerships donde codo a codo combinamos conocimiento con creatividad, donde imaginamos, diseñamos y creamos productos digitales capaces de cautivar y crear impacto.</p><p>👉 <a href=\"https://www.getonbrd.com/companies/neuralworks\" target=\"_blank\" rel=\"nofollow noopener noreferrer external\">Conoce más sobre nosotros<br></a></p>",
+                        "functions_headline": "Descripción del trabajo",
+                        "functions": "<p>El equipo de Analytics trabaja en diferentes proyectos que combinan volúmenes de datos enormes e IA, como detectar y predecir fallas antes que ocurran, optimizar pricing, personalizar la experiencia del cliente, optimizar uso de combustible, detectar caras y objetos usando visión por computador.</p><p>Como Lead Machine Learning, trabajarás gestionando y coordinando los diferentes géneros de machine learning engineer en el equipo. Trabajarás dentro de un equipo multidisciplinario con Data Scientist, Translators, DevOps, Data Architect, entre otros. Tu rol será extremadamente importante y clave para el desarrollo y ejecución de los proyectos. Estarás a cargo de aumentar la velocidad de entrega, mejorar la calidad y la seguridad del código, entender la estructura de los datos y optimizar los procesos para el equipo de desarrollo.</p><p>En cualquier proyecto que trabajes, esperamos que tengas un gran espíritu de colaboración, una pasión por la innovación y el código y una mentalidad de automatización antes que procesos manuales. </p><p>Tu trabajo consistirá en:</p><ul><li>Liderar equipos, coordinando las tareas y proyectos de los Machine Learning Engineer</li><li>Participar en mesas de decisión</li><li>Dirigir al equipo de MLE y priorizar asignación de staffing</li><li>Promover la excelencia y las mejores prácticas en todo el equipo</li><li>Promover una cultura técnica impulsando los productos de datos con las prácticas DevSecOps, SRE y MLOps</li></ul>",
+                        "benefits_headline": "Beneficios",
+                        "benefits": "<ul><li>MacBook Air M1 o similar (con opción de compra hiper conveniente)</li><li>Bono por desempeño</li><li>Bono de almuerzo mensual y almuerzo de equipo los viernes</li><li>Horario flexible</li><li>Flexibilidad entre oficina y home office</li><li>Medio día libre el día de tu cumpleaños</li><li>Inscripción en Coursera con plan de entrenamiento a medida</li><li>Estacionamiento de bicicletas</li><li>Vestimenta informal</li><li>Salida de “teambuilding” mensual</li></ul><h3><h3><br></h3><h3><br></h3></h3>",
+                        "desirable_headline": "Nice to have",
+                        "desirable": "<ul><li>Agilidad para visualizar posibles mejoras, problemas y soluciones en Arquitecturas.</li><li>Experiencia en Infrastructure as Code, observabilidad, monitoreo. Contenedores (Docker), Docker compose y Kubernetes.</li><li>Experiencia con plataformas de MLOps, tales como MLFlow, GCP Vertex, AWS SageMaker, MLRun, weights &amp; biases, Neptune AI, otros.</li><li>Experiencia con CI/CD y herramientas tales como Jenkins, GitHub Actions, CodeShips, entre otros. </li></ul>",
+                        "remote": false,
+                        "remote_modality": "hybrid",
+                        "remote_zone": null,
+                        "countries": [
+                            "Chile"
+                        ],
+                        "lang": "es",
+                        "category_name": "Machine Learning & AI",
+                        "perks": [
+                            "library",
+                            "accessible",
+                            "flexible_hours",
+                            "internal_talks",
+                            "meals_provided",
+                            "paid_sick_days",
+                            "remote_partial",
+                            "bicycle_parking",
+                            "digital_library",
+                            "computer_repairs",
+                            "commuting_stipend",
+                            "computer_provided",
+                            "performance_bonus",
+                            "conference_stipend",
+                            "informal_dresscode",
+                            "recreational_areas",
+                            "shopping_discounts",
+                            "beverages_and_snacks",
+                            "vacation_on_birthday",
+                            "time_for_side_projects"
+                        ],
+                        "min_salary": null,
+                        "max_salary": null,
+                        "published_at": 1715107299,
+                        "response_time_in_days": {
+                            "min": null,
+                            "max": null
+                        },
+                        "applications_count": 10,
+                        "location_regions": {
+                            "data": []
+                        },
+                        "location_tenants": {
+                            "data": []
+                        },
+                        "location_cities": {
+                            "data": [
+                                {
+                                    "id": 1,
+                                    "type": "location_city"
+                                }
+                            ]
+                        },
+                        "modality": {
+                            "data": {
+                                "id": 1,
+                                "type": "modality"
+                            }
+                        },
+                        "seniority": {
+                            "data": {
+                                "id": 4,
+                                "type": "seniority"
+                            }
+                        },
+                        "tags": {
+                            "data": [
+                                {
+                                    "id": 119,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 131,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 162,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 163,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 235,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 267,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 355,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 583,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 641,
+                                    "type": "tag"
+                                }
+                            ]
+                        },
+                        "company": {
+                            "data": {
+                                "id": 10681,
+                                "type": "company"
+                            }
+                        }
+                    },
+                    "links": {
+                        "public_url": "https://www.getonbrd.com/jobs/lead-machine-learning-neuralworks-santiago"
+                    }
+                }
+            ],
+            "meta": {
+                "page": 1,
+                "per_page": 1,
+                "total_pages": 13
+            }
+        }
+    },
+    {
+        "category_name": "Advertising & Media",
+        "jobs": {
+            "data": [
+                {
+                    "id": "business-reporter-bnamericas-remote",
+                    "type": "job",
+                    "attributes": {
+                        "title": "Business Reporter",
+                        "description_headline": "Requerimientos del cargo",
+                        "description": "<div><strong>What youll’ bring to the table:<br></strong><br></div><ul><li>Ability to write in English or Spanish. (You must be able to conduct interviews in both languages).</li><li>Reporting experience, with clips you can share, and able to write for a business audience.</li><li>Comfortable with public speaking</li><li>Currently living in CDMX</li><li>Experience in management roles or leading teams is <strong>desirable</strong>.</li></ul>",
+                        "projects": "<div>We are a business intelligence platform, with 28 years of experience in the LATAM market, providing our clients with valuable and updated information on projects, news and data related to the areas of Electric Power, Infrastructure, Mining and Metals, Oil and Gas, ICT, among others, so that they can use this information to make strategic decisions for their business. </div><div>Our subscribers – CEOs, project managers, and government officials – turn to our content in search of sales leads and contracts, whether it’s to provide goods and services to major companies operating across the region or to compete for contracts in public tenders. </div><div>You can find out more about us at www.bnamericas.com <br>*This vacancy welcomes inclusive applications.</div>",
+                        "functions_headline": "Funciones del cargo",
+                        "functions": "<div>We're looking for a <strong>Mexico-based business reporter</strong> who can follow the money and the business opportunities <strong>in the local energy &amp; oil sector</strong>. </div><div><strong>Main responsabilities: </strong></div><ul><li>Produce exclusive content by talking to sources. </li><li>Contribute to in-depth reports about the Mexican market. </li><li>Develop industry sources that will allow you to consistently turn out content not found in general market outlets. </li><li>Make use of our exclusive project profile database to produce added-value content. </li><li>Occasionally brief clients on current market conditions.</li></ul>",
+                        "benefits_headline": "Condiciones",
+                        "benefits": "<div><strong>What we offer:</strong><br>A competitive benefits package, including ample paid time off. </div>",
+                        "desirable_headline": "Opcionales",
+                        "desirable": "",
+                        "remote": true,
+                        "remote_modality": "fully_remote",
+                        "remote_zone": null,
+                        "countries": [
+                            "Remote"
+                        ],
+                        "lang": "lang_not_specified",
+                        "category_name": "Content, Advertising & Media",
+                        "perks": [
+                            "remote_full"
+                        ],
+                        "min_salary": null,
+                        "max_salary": null,
+                        "published_at": 1715209930,
+                        "response_time_in_days": {
+                            "min": null,
+                            "max": null
+                        },
+                        "applications_count": 76,
+                        "location_regions": {
+                            "data": []
+                        },
+                        "location_tenants": {
+                            "data": []
+                        },
+                        "location_cities": {
+                            "data": []
+                        },
+                        "modality": {
+                            "data": {
+                                "id": 1,
+                                "type": "modality"
+                            }
+                        },
+                        "seniority": {
+                            "data": {
+                                "id": 3,
+                                "type": "seniority"
+                            }
+                        },
+                        "tags": {
+                            "data": [
+                                {
+                                    "id": 267,
+                                    "type": "tag"
+                                }
+                            ]
+                        },
+                        "company": {
+                            "data": {
+                                "id": 2418,
+                                "type": "company"
+                            }
+                        }
+                    },
+                    "links": {
+                        "public_url": "https://www.getonbrd.com/jobs/business-reporter-bnamericas-remote"
+                    }
+                }
+            ],
+            "meta": {
+                "page": 1,
+                "per_page": 1,
+                "total_pages": 11
+            }
+        }
+    },
+    {
+        "category_name": "Hardware / Electronics",
+        "jobs": {
+            "data": [
+                {
+                    "id": "coordinador-de-interfaces-cctv-scada-kti-hunter-santiago",
+                    "type": "job",
+                    "attributes": {
+                        "title": "Coordinador de Interfaces Cctv Scada",
+                        "description_headline": "Requerimientos del cargo",
+                        "description": "<p>Ingeniero/a electrónico, automatización o carrera afìn con al menos 5 años de experiencia en proyectos de comunicación realizando integración de sistemas que permitan la convivencia de Megafonía, CCTV, audio a pasajeros (Aeropuertos, ferrocarriles, estadios) pantallas de publicidad, control de alarmas, conectividad. </p><p>Experiencia proyectos tecnológicos integrales de anuncio a público, que convivan con Sistemas de Megafonía, CCTV, audio a pasajeros (Aeropuertos, ferrocarriles, estadios) pantallas de publicidad, control de alarmas, conectividad. Conocimiento en sistemas de sonido, sistema IP de megafonía distribuida, altavoces, estaciones de llamado, índice de inteligibilidad. Experiencia en Sistemas de conectividad y Comunicación.<br>5 años de experiencia en cargo similar (comprobable)<br>Deseable experiencia proyectos de seguridad Electrónica, Fibra óptica, además de conocimientos en TI Server BLADE, Virtualización Vware, Webservice, Nagios, Active Directory perfilamiento de usuarios</p>",
+                        "projects": "<p>Somos una Empresa de Tecnología innovadora, con experiencia en rubros como tecnología, retail, banca u otros.<br>Somos una Fabrica de software, con enfásis en la transformación digital y las metodologías ágiles.<br>Trabajamos en tecnologias como Desarrollo de Software, QA, Testing, Architect, Scrum y Desarrollo Mobile</p><p>Acompañamos a las empresas en su camino de Transformación digital. Trabajamos en el mercado latam.</p>",
+                        "functions_headline": "Funciones del cargo",
+                        "functions": "<h3><h3>Funciones del cargo</h3></h3><p>Las principales responsabilidades del rol son:</p><p>Responsable de liderar el proceso de Interfaces </p><p>Responsable de liderar sistemas a cargo.</p><p>Responsable del diseño de la arquitectura de los sistemas a cargo, y la elaboración de la documentación técnica de ingeniería de detalles, manuales técnicos, Operativos y de Mantenimiento.</p><p>Realizar un análisis de los requerimientos para levantar posibles interferencias/interfaces o diferencias según las bases de licitación y presentarlas de manera interna y hacia el cliente para acordar los cambios de alcance si es necesario.</p><p>Liderar/Participar en reuniones técnicas para presentar y concretar, difundir, sustentar, construir y probar las diferentes soluciones.</p><p>Acordar con el cliente la solución y plasmarla en los documentos de cada ingeniería, así como la documentación de interfaces.</p><p>Responsable del seguimiento de la instalación de los sistemas a su responsabilidad </p><p>Responsable de configuración y pruebas de los sistemas, junto con los proveedores tecnológicos, de ser el caso.</p><p>Requisitos indispensables: Experiencia API, WS, SDK, SCADA, OPC.</p>",
+                        "benefits_headline": "Condiciones",
+                        "benefits": "<p>Contratación estable y beneficios de la empresa</p>",
+                        "desirable_headline": "Opcionales",
+                        "desirable": "",
+                        "remote": false,
+                        "remote_modality": "no_remote",
+                        "remote_zone": null,
+                        "countries": [
+                            "Chile"
+                        ],
+                        "lang": "lang_not_specified",
+                        "category_name": "Hardware / Electronics",
+                        "perks": [],
+                        "min_salary": 1800,
+                        "max_salary": 2100,
+                        "published_at": 1715717296,
+                        "response_time_in_days": {
+                            "min": null,
+                            "max": null
+                        },
+                        "applications_count": 0,
+                        "location_regions": {
+                            "data": []
+                        },
+                        "location_tenants": {
+                            "data": []
+                        },
+                        "location_cities": {
+                            "data": [
+                                {
+                                    "id": 1,
+                                    "type": "location_city"
+                                }
+                            ]
+                        },
+                        "modality": {
+                            "data": {
+                                "id": 1,
+                                "type": "modality"
+                            }
+                        },
+                        "seniority": {
+                            "data": {
+                                "id": 4,
+                                "type": "seniority"
+                            }
+                        },
+                        "tags": {
+                            "data": [
+                                {
+                                    "id": 114,
+                                    "type": "tag"
+                                },
+                                {
+                                    "id": 364,
+                                    "type": "tag"
+                                }
+                            ]
+                        },
+                        "company": {
+                            "data": {
+                                "id": 10693,
+                                "type": "company"
+                            }
+                        }
+                    },
+                    "links": {
+                        "public_url": "https://www.getonbrd.com/jobs/coordinador-de-interfaces-cctv-scada-kti-hunter-santiago"
+                    }
+                }
+            ],
+            "meta": {
+                "page": 1,
+                "per_page": 1,
+                "total_pages": 4
+            }
+        }
+    }
+]
